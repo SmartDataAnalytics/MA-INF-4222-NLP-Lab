@@ -1,14 +1,14 @@
 const express = require('express'),
       epilogue = require('epilogue'),
 	  bodyParser = require('body-parser'),
-	  models = require('./models');
+	  models = require('./models'),
+	  config = require('./config');
 
-	
+
 let app = express();
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 
-const APP_PORT = 3001;
 
 // Add headers
 app.use(function (req, res, next) {
@@ -28,15 +28,15 @@ app.get('/', (req,res) => {
 	res.json({test: 'hello'});
 });
 
-app.listen(APP_PORT, _ => {
-	console.log('server started at port', APP_PORT);
+app.listen(config.APP_PORT, _ => {
+	console.log('server started at port', config.APP_PORT);
 });
 
 
 // Initialize epilogue
 epilogue.initialize({
-  app: app,
-  sequelize: models.sequelize
+	app: app,
+	sequelize: models.sequelize
 });
 
 // Create REST resource

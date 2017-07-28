@@ -1,4 +1,4 @@
-const baseUrl = 'http://localhost:3001';
+import {SERVER_BASE_URL as baseUrl}  from './config';
 
 export function urls() {
 	return {

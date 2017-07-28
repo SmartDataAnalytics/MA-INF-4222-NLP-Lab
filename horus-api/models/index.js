@@ -1,9 +1,10 @@
-const Sequelize = require('sequelize');
+const Sequelize = require('sequelize'),
+	  config = require('../config');
 
 
-const db = new Sequelize('horus.db', '', '', {
+const db = new Sequelize(config.DB_NAME, '', '', {
 	dialect: 'sqlite',
-	storage: './horus.db'
+	storage: config.DB_PATH
 });
 
 const HORUS_NER_TYPES = require('./HORUS_NER_TYPES')(db, Sequelize);
@@ -14,8 +15,6 @@ const HORUS_SEARCH_TYPES = require('./HORUS_SEARCH_TYPES')(db, Sequelize);
 const HORUS_SENTENCES = require('./HORUS_SENTENCES')(db, Sequelize);
 const HORUS_TERM = require('./HORUS_TERM')(db, Sequelize);
 const HORUS_TERM_SEARCH = require('./HORUS_TERM_SEARCH')(db, Sequelize);
-
-
 
 
 module.exports = {

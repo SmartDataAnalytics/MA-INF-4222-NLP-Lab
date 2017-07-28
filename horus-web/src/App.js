@@ -9,7 +9,6 @@ const styles = {
 	}, gridList: {
 		overflowY: 'auto',
 		margin: 'auto',
-		margin: '30px',
 		display: 'flex',
 		alignItems: 'center'
 	}
