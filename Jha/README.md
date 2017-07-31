@@ -16,4 +16,4 @@ _Important:_  Since Lemma matching is very limited. There are cases when the res
 
 
 ## System Architecture
-![alt text](https://github.com/Kunal-Jha/MA-INF-4222-Lab-SoSe2017/blob/master/Jha/KATANA/SysArc.jpg)
+![alt text](https://github.com/Kunal-Jha/MA-INF-4222-Lab-SoSe2017/blob/master/Jha/KATANA/SysArc-1.jpg)
