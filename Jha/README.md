@@ -13,3 +13,7 @@ There are three packages at the moment:
 * Once you the Text is in place run the ComparisonUtils class.
 
 _Important:_  Since Lemma matching is very limited. There are cases when the resources with functional properties (from the KB) do not occur in text or not parsed correctly by OpenIE, resulting in empty results. The only solution is to make sure that NL text is large/diverse enough. One easy hack is to check the list of resources associated with the properties and use their abstracts.
+
+
+## System Architecture
+![alt text](https://github.com/Kunal-Jha/MA-INF-4222-Lab-SoSe2017/blob/master/Jha/KATANA/SysArc.jpg)
