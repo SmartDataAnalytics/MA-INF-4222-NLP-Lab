@@ -1,4 +1,4 @@
-#horus-interface
+# horus-interface
 ## Steps to run the project
 1. Copy the `horus.db` to desired path. (default is the root directory of horus-api)
 2. Install dependencies
