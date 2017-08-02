@@ -11,8 +11,9 @@ https://docs.google.com/spreadsheets/d/1I7JZeBqcyfxtCRRmTb3kQ3Hc1rSQb1hgXW3ltXuq
 	- 11.05.17 - Task 3 (due 17.05)
 
 ### Project Assignment ([Topics](https://docs.google.com/spreadsheets/d/1I7JZeBqcyfxtCRRmTb3kQ3Hc1rSQb1hgXW3ltXuqhd8/edit?usp=sharing))
-	- Deadline : 25 May
-	- Presentation : end of July (TBD)
+	- Deadline : 06.08.2017
+	- Latest: 31.08.2017
+	- Presentations : 03.08.2018 (max)
 
 | Project Description | Task Description  | Student(s) | Adviser  |
 |---------------------|-------------------|---------|----------|
@@ -32,5 +33,3 @@ https://docs.google.com/spreadsheets/d/1I7JZeBqcyfxtCRRmTb3kQ3Hc1rSQb1hgXW3ltXuq
 - [List of POS tag](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html)
 - [Random Sentences](https://cockatooscreeching.wordpress.com/2014/05/29/a-list-of-completely-random-sentences/) 
 - http://corenlp.run/
-
->>>>>>> 15bcac85782d32552275e92d21c99b22068c2d81
