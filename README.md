@@ -24,10 +24,13 @@ https://docs.google.com/spreadsheets/d/1I7JZeBqcyfxtCRRmTb3kQ3Hc1rSQb1hgXW3ltXuq
 |   | | Fazele    | Mohnish  | 
 |   |  |  Seyithan Dag   | Mohnish  | 
 |   |  |   Mehrdad Bozorg  | Mohnish  | 
+
 ### Evaluation
   - Task (30%) 
   - Project (50%) 
   - Presentation (20%)
+
+#### - upload your code AND slides to this repository under \<your-surname>\
 
 ### Useful Resources
 - [List of POS tag](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html)
