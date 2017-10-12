@@ -30,17 +30,20 @@ This LAB is composed as follows:
 Grades for this LAB will be assessed as follows:
 - [x] LAB Exercices (5%) 
 - [x] LAB Project (70%)
-  - [x] project documentation (20%)
+  - [x] project documentation (template free) (20%)
   - [x] project code/results (80%)
 - [x] Presentation (25%)
+  - [x] 15-20min talk + 10min questions/discussions
 
-1) Upload your **presentation files** to the folder: 
+Fork, Commit and Push your project to [github](https://github.com/SmartDataAnalytics/MA-INF-4222-Lab)! 
 
-- ```\<semester>\<surname_name>\presentation\```
+1) Upload your **presentation files** to: 
 
-2) Upload your **project files** to the folder: 
+```\<semester>\<surname_name>\presentation\```
 
-- ```\<semester>\<surname_name>\project\```
+2) Upload your **project files** to: 
+
+```\<semester>\<surname_name>\project\```
 
 ### More Info
 (submission dates, tasks, project descriptions, etc..)
