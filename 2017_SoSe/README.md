@@ -15,15 +15,15 @@ https://docs.google.com/spreadsheets/d/1I7JZeBqcyfxtCRRmTb3kQ3Hc1rSQb1hgXW3ltXuq
 	- Latest: 31.08.2017
 	- Presentations : 03.08.2018 (max)
 
-| Project Description | Task Description  | Student(s) | Adviser  |
-|---------------------|-------------------|---------|----------|
-| NER for microblogs  | Topic Modeling / REST | Omid    | Esteves  | 
-| Surface Forms       | Surface Forms Extraction | Kunal   | Esteves  |
-| Triple Scoring      | Benchmarking some FC| Johannes | Esteves |
-| Mining Arguments from Raw Text | Pointer Networks  | Nilesh, Priyansh and Gaurav        |  Esteves  |
-|   | | Fazele    | Mohnish  | 
-|   |  |  Seyithan Dag   | Mohnish  | 
-|   |  |   Mehrdad Bozorg  | Mohnish  | 
+|ID| Project Description | Task Description  | Student(s) | Adviser  |
+|---|---------------------|-------------------|---------|----------|
+|project01| NER for microblogs  | Topic Modeling / REST | Omid    | Esteves  | 
+|project02| Surface Forms       | Surface Forms Extraction | Kunal   | Esteves  |
+|project03| Triple Scoring      | Benchmarking some FC| Johannes | Esteves |
+|project04| Mining Arguments from Raw Text | Pointer Networks  | Nilesh, Priyansh and Gaurav        |  Esteves  |
+|project05|   | | Fazele    | Mohnish  | 
+|project06|   |  |  Seyithan Dag   | Mohnish  | 
+|project07|   |  |   Mehrdad Bozorg  | Mohnish  | 
 
 ### Evaluation
   - Task (30%) 
