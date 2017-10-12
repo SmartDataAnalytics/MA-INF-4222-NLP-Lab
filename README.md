@@ -15,7 +15,7 @@ AVZ III / Römerstr. 164	(schedule see [more info](https://github.com/SmartDataA
     - content = **matriculation nr.** - **full name** 
 
 ### Pre-requisites :warning:
-- Programming language skills (Python :snake: or Java :coffee: preferable) :computer:
+- Programming language skills (Python :snake: or Java :coffee: preferable) 
 
 ### Overview :mag:
 This LAB is organised as follows:
@@ -27,7 +27,7 @@ This LAB is organised as follows:
 ### Grading :chart_with_upwards_trend:
 Grades for this LAB will be assessed as follows:
 - [x] LAB Exercices (10%) :memo:
-- [x] LAB Project (70%) :floppy_disk:
+- [x] LAB Project (70%) :computer:
   - [x] code documentation (template free, min 2 pages) (20%)
   - [x] source code / results (80%)
 - [x] Presentation (20%) :microphone:
@@ -37,11 +37,13 @@ Grades for this LAB will be assessed as follows:
 
 1) Upload your **presentation files** to: 
 
-```\<semester>\<surname_name>\presentation\``` :heavy_check_mark:
+```\<semester>\<project_id>\presentation\``` :heavy_check_mark:
 
 2) Upload your **project files** to: 
 
-```\<semester>\<surname_name>\project\``` :heavy_check_mark:
+```\<semester>\<project_id>\project\``` :heavy_check_mark:
+
+example: ```\SoSe17\project01\project```and ```\SoSe17\project01\presentation``` :floppy_disk:
 
 ### More Info :calendar:
 (submission dates, tasks, project descriptions, etc..)
