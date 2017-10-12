@@ -1,7 +1,6 @@
 # MA-INF-4222-Lab
 **Repository for "Natural Language Processing Lab" (MA-INF 4222)**
 
-
 [Smart Data Analytics (SDA Research)](http://sda.cs.uni-bonn.de/)
 
 [University of Bonn](https://www.uni-bonn.de/the-university)
@@ -13,6 +12,13 @@
 - [Mohnish Dubey](http://sda.cs.uni-bonn.de/people/mohnish-dubey/)
 - [Prof.Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/)
 
+### More Info
+(submission dates, tasks, project descriptions, etc..)
+
+[Summer Semester 2017](https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-Lab/tree/master/2017_SoSe)
+
+[Winter Semester 2017-18](https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-Lab/tree/master/2017-18_WiSe)
+
 ### Overview
 This LAB is composed as follows:
 
@@ -21,15 +27,11 @@ This LAB is composed as follows:
 
 ### Grading
 Grades for this LAB will be assessed as follows:
-- [x] Task (30%) 
-- [x] Project (50%) 
-- [x] Presentation (20%)
+- [x] LAB Exercices (5%) 
+- [x] LAB Project (70%)
+  - [x] project documentation (20%)
+  - [x] project code/results (80%)
+- [x] Presentation (25%)
 
-#### - Rules
-1) Upload your presentation files to the folder: ```\<semester>\<surname_name>\presentation\```
-2) Commit your project files to the folder: ```\<semester>\<surname_name>\project\```
-
-### More Info
-[Summer Semester 2017](https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-Lab/tree/master/2017_SoSe)
-
-[Winter Semester 2017-18](https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-Lab/tree/master/2017-18_WiSe)
+1) Upload your **presentation files** to the folder: ```\<semester>\<surname_name>\presentation\```
+2) Upload your **project files** to the folder: ```\<semester>\<surname_name>\project\```
