@@ -12,6 +12,9 @@
 - [Mohnish Dubey](http://sda.cs.uni-bonn.de/people/mohnish-dubey/)
 - [Prof.Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/)
 
+### Where?
+AVZ III / Römerstr. 164	
+
 ### Registration :email:
 - please send an email to: esteves@cs.uni-bonn.de
     - subject = "**MA-INF-4222-NLP-Lab - registration - [semester code]** (eg: SoSe17 or WiSe17-18)"
