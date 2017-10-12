@@ -14,24 +14,25 @@
 
 ### Registration :email:
 - please send an email to: esteves@cs.uni-bonn.de
-    - subject = "MA-INF-4222-NLP-Lab - registration - [semester code]"
-    - content = student **matriculation nr.** and **full name** 
+    - subject = "**MA-INF-4222-NLP-Lab - registration - [semester code]** (eg: SoSe17 or WiSe17-18)"
+    - content = **matriculation nr.** - **full name** 
 
 ### Pre-requisites :warning:
-- Programming language skills (Python or Java preferable) :computer:
+- Programming language skills (Python :snake: or Java :coffee: preferable) :computer:
 
 ### Overview :mag:
 This LAB is organised as follows:
 
-- Basic NLP Exercices
-- Project Assignments
+- Basic NLP Exercices :heavy_check_mark:
+- Project Assignments :heavy_check_mark:
+- Project Presentation :heavy_check_mark:
 
 ### Grading :chart_with_upwards_trend:
 Grades for this LAB will be assessed as follows:
 - [x] LAB Exercices (10%) :memo:
 - [x] LAB Project (70%) :floppy_disk:
-  - [x] project documentation (template free) (20%)
-  - [x] project code/results (80%)
+  - [x] code documentation (template free, min 2 pages) (20%)
+  - [x] source code / results (80%)
 - [x] Presentation (20%) :microphone:
   - [x] 15-20min talk + 10min questions/discussions
 
