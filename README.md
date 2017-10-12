@@ -41,9 +41,9 @@ Grades for this LAB will be assessed as follows:
 
 2) Upload your **project files** to: 
 
-```\<semester>\<project_id>\project\``` :heavy_check_mark:
+```\<semester>\<project_id>\code\``` :heavy_check_mark:
 
-example: ```\SoSe17\project01\project```and ```\SoSe17\project01\presentation``` :floppy_disk:
+example: ```\SoSe17\project01\code```and ```\SoSe17\project01\presentation``` :floppy_disk:
 
 ### More Info :calendar:
 (submission dates, tasks, project descriptions, etc..)
