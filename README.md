@@ -1,17 +1,25 @@
 # MA-INF-4222-Lab
-Repository for Lab “Natural Language Processing” (MA-INF 4222), University of Bonn
+**Repository for "Natural Language Processing Lab" (MA-INF 4222)**
+
+[Smart Data Analytics (SDA Research)](http://sda.cs.uni-bonn.de/)
+
+[University of Bonn](https://www.uni-bonn.de/the-university)
+
+[Course web site](http://sda.cs.uni-bonn.de/teaching/ma-inf-4222/)
 
 ### Lecturer
-	- [Diego Esteves (*)](http://sda.cs.uni-bonn.de/people/diego-esteves/)
-	- [Mohnish Dubey](http://sda.cs.uni-bonn.de/people/mohnish-dubey/)
-	- [Prof.Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/)
+- [Diego Esteves](http://sda.cs.uni-bonn.de/people/diego-esteves/) (main contact)
+- [Mohnish Dubey](http://sda.cs.uni-bonn.de/people/mohnish-dubey/)
+- [Prof.Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/)
 
 ### Overview
 This LAB is composed as follows:
 	- Basic NLP Exercices
-	- Project Assignments 
+	
+	- Project Assignments
 
-### Evaluation
+### Grading
+Grades for this LAB will be assessed as follows:
   - Task (30%) 
   - Project (50%) 
   - Presentation (20%)
@@ -20,17 +28,7 @@ This LAB is composed as follows:
 			- 1) Upload your presentation files to the folder: \<semester>\<surname_name>\<presentation>\
 			- 2) Commit your project files to the folder: \<semester>\<surname_name>\<project>\
 
-### Semester
-	- [Summer Semester 2017](https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-Lab/tree/master/2017_SoSe)
-	- [Winter Semester 2017-18](https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-Lab/tree/master/2017-18_WiSe)
+### Files
+[Summer Semester 2017](https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-Lab/tree/master/2017_SoSe)
 
-
-
-#### - upload your code AND slides to this repository under \<your-surname>\
-
-### Useful Resources
-- 
-- [Random Sentences](https://cockatooscreeching.wordpress.com/2014/05/29/a-list-of-completely-random-sentences/) 
-- http://corenlp.run/
-
-(*) NLP LAB main contact
+[Winter Semester 2017-18](https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-Lab/tree/master/2017-18_WiSe)
