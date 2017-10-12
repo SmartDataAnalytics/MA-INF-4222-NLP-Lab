@@ -1,5 +1,5 @@
 # MA-INF-4222-Lab
-**Repository for "Natural Language Processing Lab" (MA-INF 4222)**
+**Repository for "Natural Language Processing Lab" (MA-INF 4222)** :speech_balloon:
 
 [Smart Data Analytics (SDA Research)](http://sda.cs.uni-bonn.de/)
 
@@ -7,45 +7,45 @@
 
 [Course web site](http://sda.cs.uni-bonn.de/teaching/ma-inf-4222/)
 
-### Lecturer
-- [Diego Esteves](http://sda.cs.uni-bonn.de/people/diego-esteves/) (main contact)
+### Lecturer 
+- [Diego Esteves](http://sda.cs.uni-bonn.de/people/diego-esteves/) (main contact) :alien:
 - [Mohnish Dubey](http://sda.cs.uni-bonn.de/people/mohnish-dubey/)
 - [Prof.Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/)
 
-### Registration
+### Registration :email:
 - please send an email to: esteves@cs.uni-bonn.de
     - subject = "MA-INF-4222-NLP-Lab - registration - [semester code]"
     - content = student **matriculation nr.** and **full name** 
 
-### Pre-requisites
-- Programming language skills (Python or Java preferable)
+### Pre-requisites :warning:
+- Programming language skills (Python or Java preferable) :computer:
 
-### Overview
-This LAB is composed as follows:
+### Overview :mag:
+This LAB is organised as follows:
 
 - Basic NLP Exercices
 - Project Assignments
 
-### Grading
+### Grading :chart_with_upwards_trend:
 Grades for this LAB will be assessed as follows:
-- [x] LAB Exercices (5%) 
-- [x] LAB Project (70%)
+- [x] LAB Exercices (10%) :memo:
+- [x] LAB Project (70%) :floppy_disk:
   - [x] project documentation (template free) (20%)
   - [x] project code/results (80%)
-- [x] Presentation (25%)
+- [x] Presentation (20%) :microphone:
   - [x] 15-20min talk + 10min questions/discussions
 
-Fork, Commit and Push your project to [github](https://github.com/SmartDataAnalytics/MA-INF-4222-Lab)! 
+[Fork](https://guides.github.com/activities/forking/), commit and push your project to [github](https://github.com/SmartDataAnalytics/MA-INF-4222-Lab) :octocat: following the rules:
 
 1) Upload your **presentation files** to: 
 
-```\<semester>\<surname_name>\presentation\```
+```\<semester>\<surname_name>\presentation\``` :heavy_check_mark:
 
 2) Upload your **project files** to: 
 
-```\<semester>\<surname_name>\project\```
+```\<semester>\<surname_name>\project\``` :heavy_check_mark:
 
-### More Info
+### More Info :calendar:
 (submission dates, tasks, project descriptions, etc..)
 
 [Summer Semester 2017](https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-Lab/tree/master/2017_SoSe)
