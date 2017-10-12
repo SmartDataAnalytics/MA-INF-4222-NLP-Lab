@@ -23,8 +23,8 @@
 ### Overview
 This LAB is composed as follows:
 
-1. Basic NLP Exercices
-2. Project Assignments
+- Basic NLP Exercices
+- Project Assignments
 
 ### Grading
 Grades for this LAB will be assessed as follows:
