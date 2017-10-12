@@ -5,7 +5,7 @@
 
 [University of Bonn](https://www.uni-bonn.de/the-university)
 
-[Course web site](http://sda.cs.uni-bonn.de/teaching/ma-inf-4222/)
+[Course web site](http://sda.cs.uni-bonn.de/teaching/nlp/)
 
 ### Lecturer 
 - [Diego Esteves](http://sda.cs.uni-bonn.de/people/diego-esteves/) (main contact) :alien:
