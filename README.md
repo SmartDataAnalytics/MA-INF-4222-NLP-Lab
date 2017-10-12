@@ -1,11 +1,5 @@
 # MA-INF-4222-Lab
-**Repository for "Natural Language Processing Lab" (MA-INF 4222)** :speech_balloon:
-
-[Smart Data Analytics (SDA Research)](http://sda.cs.uni-bonn.de/)
-
-[University of Bonn](https://www.uni-bonn.de/the-university)
-
-[Course web site](http://sda.cs.uni-bonn.de/teaching/nlp/)
+**Natural Language Processing Lab (MA-INF 4222)** :speech_balloon:
 
 ### Lecturer 
 - [Diego Esteves](http://sda.cs.uni-bonn.de/people/diego-esteves/) (main contact) :alien:
@@ -52,6 +46,12 @@ Grades for this LAB will be assessed as follows:
 ### More Info :calendar:
 (submission dates, tasks, project descriptions, etc..)
 
-[Summer Semester 2017](https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-Lab/tree/master/2017_SoSe)
+[**Winter Semester 2017-18**](https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-Lab/tree/master/2017-18_WiSe) :snowflake:
 
-[Winter Semester 2017-18](https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-Lab/tree/master/2017-18_WiSe)
+[Summer Semester 2017](https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-Lab/tree/master/2017_SoSe) :sunny:
+
+[Smart Data Analytics (SDA Research)](http://sda.cs.uni-bonn.de/)
+
+[University of Bonn](https://www.uni-bonn.de/the-university)
+
+[Course web site](http://sda.cs.uni-bonn.de/teaching/nlp/)
