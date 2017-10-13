@@ -15,7 +15,7 @@ AVZ III / Römerstr. 164	(schedule see [more info](https://github.com/SmartDataA
     - content = **matriculation nr.** - **full name** 
 
 ### Pre-requisites :warning:
-- Programming language skills (Python :snake: or Java :coffee: preferable) 
+- Programming language skills (preferable: Python :snake: or Java :coffee:) 
 
 ### Overview :mag:
 This LAB is organised as follows:
