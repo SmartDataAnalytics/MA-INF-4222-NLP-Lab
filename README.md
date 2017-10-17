@@ -1,5 +1,14 @@
-# MA-INF-4222-Lab
-**Natural Language Processing Lab (MA-INF 4222)** :speech_balloon:
+<table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td width="50%">
+            <h2>MA-INF-4222-Lab</h2>
+            <b>Natural Language Processing Lab (MA-INF 4222)</b> :speech_balloon:
+        </td>
+        <td align="right">
+            <img src="http://sda.cs.uni-bonn.de/wp-content/uploads/2017/10/Smart-Data-Analytics.png" width="60%" height="=60%">
+        </td>
+    </tr>
+    </table>
 
 ### Lecturer 
 - [Diego Esteves](http://sda.cs.uni-bonn.de/people/diego-esteves/) (main contact) :alien:
