@@ -1,11 +1,11 @@
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-        <td width="50%">
+        <td width="80%">
             <h2>MA-INF-4222-Lab</h2>
             <b>Natural Language Processing Lab (MA-INF 4222)</b> :speech_balloon:
         </td>
         <td align="right">
-            <img src="http://sda.cs.uni-bonn.de/wp-content/uploads/2017/10/Smart-Data-Analytics.png" width="50%" height="=50%">
+            <img src="http://sda.cs.uni-bonn.de/wp-content/uploads/2017/10/Smart-Data-Analytics.png" >
         </td>
     </tr>
     </table>
