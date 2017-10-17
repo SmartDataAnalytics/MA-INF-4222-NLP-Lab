@@ -5,7 +5,7 @@
             <b>Natural Language Processing Lab (MA-INF 4222)</b> :speech_balloon:
         </td>
         <td align="right">
-            <img src="http://sda.cs.uni-bonn.de/wp-content/uploads/2017/10/Smart-Data-Analytics.png" width="60%" height="=60%">
+            <img src="http://sda.cs.uni-bonn.de/wp-content/uploads/2017/10/Smart-Data-Analytics.png" width="50%" height="=50%">
         </td>
     </tr>
     </table>
