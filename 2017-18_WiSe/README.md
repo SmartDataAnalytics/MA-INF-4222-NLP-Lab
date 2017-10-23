@@ -5,7 +5,7 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Winter Semes
 - [17.10.17]
 	- **Introduction meeeting (10:00h A7a - Seminarraum)**
 - [26.10.17]
-	- Exercices and Project discussions (14:00h A7a)
+	- Exercices and Project discussions (14:00h **A7a [TBA]**)
 - [02.11.17]
 	- Exercices and Project discussions (14:00h A7a)
 - [09.11.17]
@@ -22,7 +22,7 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Winter Semes
 		- [01.02.18] - Day 4
 
 ### Topics
-	- TBD
+	- TBA
 
 | Project Description | Task Description  | Student(s) | Adviser  |
 |---------------------|-------------------|---------|----------|
