@@ -15,7 +15,7 @@
 - [Mohnish Dubey](http://sda.cs.uni-bonn.de/people/mohnish-dubey/)
 - [Prof.Dr. Jens Lehmann](http://sda.cs.uni-bonn.de/people/prof-dr-jens-lehmann/)
 
-### Where?
+### Where? When?
 AVZ III / Römerstr. 164	(schedule see [more info](https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-Lab#more-info-calendar) below)
 
 ### Registration :email:
