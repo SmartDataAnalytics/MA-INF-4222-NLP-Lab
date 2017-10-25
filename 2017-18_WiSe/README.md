@@ -3,15 +3,15 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Winter Semes
 
 ### When and Where?
 Thursdays 2pm
-AVZ III / A301a (:white_check_mark:)
+AVZ III / **A301a** (:white_check_mark:)
 
 ### Lab Schedule
 - [17.10.17]
-	- **Introduction meeeting (10:00h A7a - Seminarraum)**
+	- **Introduction meeeting (exceptionally: 10:00h A7a - Seminarraum)**
 - [26.10.17]
 	- ~~Exercices and Project discussions~~ (canceled)
 - [02.11.17]
-	- Exercices and Project discussions
+	- Exercices and Project discussions (AVZ III / A301a)
 - [09.11.17]
 	- Exercices and Project discussions
 - [16.11.17]
