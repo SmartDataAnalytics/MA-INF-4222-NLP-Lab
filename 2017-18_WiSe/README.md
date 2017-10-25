@@ -1,5 +1,8 @@
-# MA-INF-4222-Lab-Wise2017-18
-Repository for Lab “Natural Language Processing” (MA-INF 4222), Winter Semester 2017-18, University of Bonn
+## Lab “Natural Language Processing” (MA-INF 4222)
+## Winter Semester 2017-18, University of Bonn
+
+### Communication ###
+Please join: nlp_labs_unibonn_wise1718@googlegroups.com :email:
 
 ### When and Where?
 Thursdays 2pm
