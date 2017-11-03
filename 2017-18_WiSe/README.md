@@ -33,11 +33,15 @@ AVZ III / **A301a** (:white_check_mark:)
 ### Topics
 	- TBA
 
-| Project Description | Task Description  | Student(s) | Adviser  |
-|---------------------|-------------------|---------|----------|
-|   |  |    |  | 
-|   |  |    |  | 
-|   |  |    |  | 
+|id| Project Description | Short Description  | Student(s) | Adviser  |
+|--|---------------------|-------------------|---------|----------|
+|proj01w17| Text Similarity  | Understand and compute different similarity measures |  -  | Diego Esteves | 
+|proj02w17| Information Retrieval | Reading, understanding and export metadata from PDF documents |  -  | Diego Esteves | 
+|proj03w17| Ranking Websites  | Clustering websites by categories |  -  | Diego Esteves | 
+|proj04w17| Triple Validation  | Verifying veracity of claims in RDF |  -  | Diego Esteves | 
+|proj05w17| Named Entity Recognition  | NER for short text |  -  | Diego Esteves |
+|proj06w17| Textual Entailment  | Directional relation between text fragments |  -  | Diego Esteves |
+
 
 #### DO NOT FORGET TO COMMIT AND PUSH YOUR FILES BEFORE THE DUE DATE!
 
