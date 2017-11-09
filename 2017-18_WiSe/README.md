@@ -18,7 +18,8 @@ AVZ III / **A301a** (:white_check_mark:)
 - [09.11.17]
 	- Exercices and Project discussions
 - [16.11.17]
-	- Projects Overview (14:00h A7a)
+	- Exercices and Project discussions
+	- Projects Overview (14:00h A7a) **from this date on, we will start the labs at 14:20h**
 - [23.11.17]
 	- Projects Assignment Due (via email)
 - [30.11.17 to 04.01.18]
@@ -30,7 +31,7 @@ AVZ III / **A301a** (:white_check_mark:)
 		- [25.01.18] - Day 3
 		- [01.02.18] - Day 4
 
-### Topics
+### Topics (feel free to suggest a different topic)
 	- TBA
 
 |id| Project Description | Short Description  | Student(s) | Adviser  |
@@ -42,6 +43,8 @@ AVZ III / **A301a** (:white_check_mark:)
 |proj05w17| Fake News - Social Bots, Chatbots  | Identify fake web profiles |  -  | Diego Esteves |
 |proj06w17| Named Entity Recognition  | NER for short text |  -  | Diego Esteves |
 |proj07w17| Textual Entailment  | Directional relation between text fragments |  -  | Diego Esteves |
+|proj08w17 Question Answering  |  |  -  | Mohnish Dubey |
+|proj09w17| Dialogue Systems  |  |  -  | Mohnish Dubey |
 
 #### DO NOT FORGET TO COMMIT AND PUSH YOUR FILES BEFORE THE DUE DATE!
 
