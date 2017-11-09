@@ -43,7 +43,7 @@ AVZ III / **A301a** (:white_check_mark:)
 |proj05w17| Fake News - Social Bots, Chatbots  | Identify fake web profiles |  -  | Diego Esteves |
 |proj06w17| Named Entity Recognition  | NER for short text |  -  | Diego Esteves |
 |proj07w17| Textual Entailment  | Directional relation between text fragments |  -  | Diego Esteves |
-|proj08w17 Question Answering  |  |  -  | Mohnish Dubey |
+|proj08w17| Question Answering  |  |  -  | Mohnish Dubey |
 |proj09w17| Dialogue Systems  |  |  -  | Mohnish Dubey |
 
 #### DO NOT FORGET TO COMMIT AND PUSH YOUR FILES BEFORE THE DUE DATE!
