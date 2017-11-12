@@ -17,9 +17,9 @@ AVZ III / **A301a** (:white_check_mark:)
 	- Exercices and Project discussions (AVZ III / A301a)
 - [09.11.17]
 	- Exercices and Project discussions
-- [16.11.17]
+- [16.11.17] **-- starting at 14:20h --**
 	- Exercices and Project discussions
-	- Projects Overview (14:00h A7a) **from this date on, we will start the labs at 14:20h**
+	- Projects Overview 
 - [23.11.17]
 	- Projects Assignment Due (via email)
 - [30.11.17 to 04.01.18]
@@ -32,7 +32,6 @@ AVZ III / **A301a** (:white_check_mark:)
 		- [01.02.18] - Day 4
 
 ### Topics (feel free to suggest a different topic)
-	- TBA
 
 |id| Project Description | Short Description  | Student(s) | Adviser  |
 |--|---------------------|-------------------|---------|----------|
