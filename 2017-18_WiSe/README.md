@@ -44,6 +44,7 @@ AVZ III / **A301a** (:white_check_mark:)
 |proj07w17| Textual Entailment  | Directional relation between text fragments |  -  | Diego Esteves |
 |proj08w17| Question Answering  |  |  -  | Mohnish Dubey |
 |proj09w17| Dialogue Systems  |  |  -  | Mohnish Dubey |
+|**proj10w17**| **Text Generation**  | **Generative model for textual data**  | **Agustinus Kristiadi, Yonathan Santosa** |  |
 
 #### DO NOT FORGET TO COMMIT AND PUSH YOUR FILES BEFORE THE DUE DATE!
 
