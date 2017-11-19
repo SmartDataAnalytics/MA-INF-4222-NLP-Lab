@@ -40,7 +40,7 @@ AVZ III / **A301a** (:white_check_mark:)
 |**proj03w17**| **Ranking Websites**  | **Clustering websites by categories** |  **Marina Mircheska**  | **Diego Esteves** |
 |proj04w17| Fake News - Triple Validation  | Verifying veracity of claims in RDF |  -  | Diego Esteves | 
 |proj05w17| Fake News - Social Bots, Chatbots  | Identify fake web profiles |  -  | Diego Esteves |
-|proj06w17| Named Entity Recognition  | NER for short text |  -  | Diego Esteves |
+|proj06w17| Named Entity Recognition  | NER for short text |  Saad Khan  | Diego Esteves |
 |proj07w17| Textual Entailment  | Directional relation between text fragments |  -  | Diego Esteves |
 |proj08w17| Question Answering  |  |  -  | Mohnish Dubey |
 |proj09w17| Dialogue Systems  |  |  -  | Mohnish Dubey |
