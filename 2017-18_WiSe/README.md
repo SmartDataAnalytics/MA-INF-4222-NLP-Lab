@@ -35,16 +35,16 @@ AVZ III / **A301a** (:white_check_mark:)
 
 |id| Project Description | Short Description  | Student(s) | Adviser  |
 |--|---------------------|-------------------|---------|----------|
-|proj01w17| Text Similarity  | Understand and compute different similarity measures |  -  | Diego Esteves | 
-|proj02w17| Information Retrieval | Reading, understanding and export metadata from PDF documents |  -  | Diego Esteves | 
+|**proj01w17**| **Text Similarity**  | **Understand and compute different similarity measures** |  **Eva Gerlitz**  | **Diego Esteves** | 
+|**proj02w17**| **Information Retrieval** | **Reading, understanding and export metadata from PDF documents** |  **Samin Payro**  | **Diego Esteves** | 
 |**proj03w17**| **Ranking Websites**  | **Clustering websites by categories** |  **Marina Mircheska**  | **Diego Esteves** |
 |proj04w17| Fake News - Triple Validation  | Verifying veracity of claims in RDF |  -  | Diego Esteves | 
 |proj05w17| Fake News - Social Bots, Chatbots  | Identify fake web profiles |  -  | Diego Esteves |
-|proj06w17| Named Entity Recognition  | NER for short text |  Saad Khan  | Diego Esteves |
+|**proj06w17**| **Named Entity Recognition**  | **NER for short text** |  **Saad Khan**  | **Diego Esteves** |
 |proj07w17| Textual Entailment  | Directional relation between text fragments |  -  | Diego Esteves |
 |proj08w17| Question Answering  |  |  -  | Mohnish Dubey |
 |proj09w17| Dialogue Systems  |  |  -  | Mohnish Dubey |
-|**proj10w17**| **Text Generation**  | **Generative model for textual data**  | **Agustinus Kristiadi, Yonathan Santosa** |  |
+|**proj10w17**| **Text Generation**  | **Generative model for textual data**  | **Agustinus Kristiadi, Yonathan Santosa** | **Mohnish Dubey** |
 
 #### DO NOT FORGET TO COMMIT AND PUSH YOUR FILES BEFORE THE DUE DATE!
 
