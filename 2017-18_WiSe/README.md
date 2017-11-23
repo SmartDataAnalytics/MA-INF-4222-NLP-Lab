@@ -45,6 +45,7 @@ AVZ III / **A301a** (:white_check_mark:)
 |proj08w17| Question Answering  |  |  -  | Mohnish Dubey |
 |proj09w17| Dialogue Systems  |  |  -  | Mohnish Dubey |
 |**proj10w17**| **Text Generation**  | **Generative model for textual data**  | **Agustinus Kristiadi, Yonathan Santosa** | **Mohnish Dubey** |
+|**proj11w17**| **Sentiment Analysis**  | **Predicting IMDB movie score of an individual based on their review** | **Seyithan Dag** | **Diego Esteves, Mohnish Dubey** |
 
 #### DO NOT FORGET TO COMMIT AND PUSH YOUR FILES BEFORE THE DUE DATE!
 
