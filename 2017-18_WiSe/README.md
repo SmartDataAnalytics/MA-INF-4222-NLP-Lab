@@ -26,8 +26,8 @@ AVZ III / **A301a** (:white_check_mark:)
 	- Project Meetings (TBD)
 - [21.12.17]
 	- **Project mid-term presentations (2:15pm)**	
-- [11.01.18 to 01.02.18]
-	- Projects final presentations (2:15pm) **final presentation date TBD**
+- [11.01.18 to 01.02.18] **(note: final presentation date TBD)**
+	- Projects final presentations (2:15pm)
 		- [11.01.18] - Day 1
 		- [18.01.18] - Day 2
 		- [25.01.18] - Day 3
