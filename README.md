@@ -58,7 +58,11 @@ example: ```\SoSe17\project01\code```and ```\SoSe17\project01\presentation``` :f
 ### More Info :calendar:
 (submission dates, tasks, project descriptions, etc..)
 
-[Summer Semester 2018] 19.04.2018 bis 19.07.2018 - AVZ III / Römerstr. 164 - A121 - 2pm (**Kick-off meeting date TBD**)
+[Summer Semester 2018] 
+- **When?** 17.04.2018 bis 17.07.2018
+- **Where?** Endenicher Allee 19A, INF/B-IT/Seminarraum 1.047, Informatik III 
+- **Time?** 3PM 
+- **IMPORTANT** -> Joint kick-off meeting date (NLP seminars and labs): TBD
 
 [**Winter Semester 2017-18**](https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-Lab/tree/master/2017-18_WiSe) :snowflake:
 
