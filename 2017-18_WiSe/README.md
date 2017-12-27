@@ -40,7 +40,7 @@ AVZ III / **A301a** (:white_check_mark:)
 |proj05w17| Fake News - Social Bots, Chatbots  | Identify fake web profiles |  -  | Diego Esteves |
 |**proj06w17**| **Named Entity Recognition**  | **NER for short text** |  **Saad Khan**  | **Diego Esteves** |
 |proj07w17| Textual Entailment  | Directional relation between text fragments |  **Nadezhda Vassilyeva**  | **Diego Esteves** |
-|proj08w17| Question Answering  |  |  -  | Mohnish Dubey |
+|proj08w17| Question Answering  | **Relation Identification and Linking** |  **Saptarshi Bhattacharya**  | Mohnish Dubey |
 |proj08w17| Benchmarking Matrics for QA :fire:  |  |  -  | Mohnish Dubey |
 |proj09w17| Dialogue Systems  |  | **Viviane Becker** | Mohnish Dubey |
 |**proj10w17**| **Text Generation**  | **Generative model for textual data**  | **Agustinus Kristiadi, Yonathan Santosa** | **Mohnish Dubey** |
