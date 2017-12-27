@@ -29,6 +29,16 @@ AVZ III / **A301a** (:white_check_mark:)
 - [01.02.18]
 	- **Project final presentations (2pm)**
 
+### Final Presentations
+- Talk 1) Agustinus and Yonathan
+- Talk 2) Seyithan
+- Talk 3) Saad
+- Talk 4) Samin
+- Talk 5) Eva
+- Talk 6) Xiaotian
+- Talk 7) Viviane
+- Talk 8) Saptarshi
+
 ### Topics (feel free to suggest a different topic)
 
 |id| Project Description | Short Description  | Student(s) | Adviser  |
