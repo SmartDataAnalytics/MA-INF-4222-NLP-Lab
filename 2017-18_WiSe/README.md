@@ -46,14 +46,14 @@ AVZ III / **A301a** (:white_check_mark:)
 |**proj01w1718**| **Text Similarity**  | **Understand and compute different similarity measures** |  **Eva Gerlitz**  | **Diego Esteves** | 
 |**proj02w1718**| **Information Retrieval** | **Reading, understanding and export metadata from PDF documents** |  **Samin Payro**  | **Diego Esteves** | 
 |**proj03w1718**| **Ranking Websites**  | **Clustering websites by categories** |  **Xiaotian**  | **Diego Esteves** |
-|proj04w1718| Fake News - Triple Validation  | Verifying veracity of claims in RDF |  -  | Diego Esteves | 
-|proj05w1718| Fake News - Social Bots, Chatbots  | Identify fake web profiles |  -  | Diego Esteves |
-|**proj06w1718**| **Named Entity Recognition**  | **NER for short text** |  **Saad Khan**  | **Diego Esteves** |
-|proj07w1718| Textual Entailment  | Directional relation between text fragments |    | **Diego Esteves** |
-|**proj08w1718**| **Question Answering**  | **Relation Identification and Linking** |  **Saptarshi Bhattacharya**  | **Mohnish Dubey** |
-|**proj09w1718**| **Dialogue Systems**  |  | **Viviane Becker** | **Mohnish Dubey** |
-|**proj10w1718**| **Text Generation**  | **Generative model for textual data**  | **Agustinus Kristiadi, Yonathan Santosa** | **Mohnish Dubey** |
-|**proj11w1718**| **Sentiment Analysis**  | **Predicting IMDB movie score of an individual based on their review** | **Seyithan Dag** | **Diego Esteves, Mohnish Dubey** |
+|**proj04w1718**| **Named Entity Recognition**  | **NER for short text** |  **Saad Khan**  | **Diego Esteves** |
+|**proj05w1718**| **Question Answering**  | **Relation Identification and Linking** |  **Saptarshi Bhattacharya**  | **Mohnish Dubey** |
+|**proj06w1718**| **Dialogue Systems**  |  | **Viviane Becker** | **Mohnish Dubey** |
+|**proj07w1718**| **Text Generation**  | **Generative model for textual data**  | **Agustinus Kristiadi, Yonathan Santosa** | **Mohnish Dubey** |
+|**proj08w1718**| **Sentiment Analysis**  | **Predicting IMDB movie score of an individual based on their review** | **Seyithan Dag** | **Diego Esteves, Mohnish Dubey** |
+|proj09w1718| Fake News - Triple Validation  | Verifying veracity of claims in RDF |  -  | Diego Esteves | 
+|proj10w1718| Fake News - Social Bots, Chatbots  | Identify fake web profiles |  -  | Diego Esteves |
+|proj11w1718| Textual Entailment  | Directional relation between text fragments |    | **Diego Esteves** |
 
 #### DO NOT FORGET TO COMMIT AND PUSH YOUR FILES BEFORE THE DUE DATE!
 
