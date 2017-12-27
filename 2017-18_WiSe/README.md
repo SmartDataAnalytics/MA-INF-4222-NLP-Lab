@@ -42,7 +42,7 @@ AVZ III / **A301a** (:white_check_mark:)
 |proj07w17| Textual Entailment  | Directional relation between text fragments |  **Nadezhda Vassilyeva**  | **Diego Esteves** |
 |proj08w17| Question Answering  |  |  -  | Mohnish Dubey |
 |proj08w17| Benchmarking Matrics for QA :fire:  |  |  -  | Mohnish Dubey |
-|proj09w17| Dialogue Systems  |  |  -  | Mohnish Dubey |
+|proj09w17| Dialogue Systems  |  | **Viviane Becker** | Mohnish Dubey |
 |**proj10w17**| **Text Generation**  | **Generative model for textual data**  | **Agustinus Kristiadi, Yonathan Santosa** | **Mohnish Dubey** |
 |**proj11w17**| **Sentiment Analysis**  | **Predicting IMDB movie score of an individual based on their review** | **Seyithan Dag** | **Diego Esteves, Mohnish Dubey** |
 
