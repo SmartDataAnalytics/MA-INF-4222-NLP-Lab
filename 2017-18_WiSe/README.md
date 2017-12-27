@@ -53,7 +53,7 @@ AVZ III / **A301a** (:white_check_mark:)
 |**proj08w1718**| **Sentiment Analysis**  | **Predicting IMDB movie score of an individual based on their review** | **Seyithan Dag** | **Diego Esteves, Mohnish Dubey** |
 |proj09w1718| Fake News - Triple Validation  | Verifying veracity of claims in RDF |  -  | Diego Esteves | 
 |proj10w1718| Fake News - Social Bots, Chatbots  | Identify fake web profiles |  -  | Diego Esteves |
-|proj11w1718| Textual Entailment  | Directional relation between text fragments |    | **Diego Esteves** |
+|proj11w1718| Textual Entailment  | Directional relation between text fragments |    | Diego Esteves |
 
 #### DO NOT FORGET TO COMMIT AND PUSH YOUR FILES BEFORE THE DUE DATE!
 
