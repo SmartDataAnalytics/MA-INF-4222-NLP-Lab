@@ -24,29 +24,36 @@ AVZ III / **A301a** (:white_check_mark:)
 	- Projects Assignment Due (via email)
 - [30.11.17 to 04.01.18]
 	- Project Meetings (TBD)
-- [11.01.18 to 01.02.18]
-	- Projects Presentations (14:00h A7a)
-		- [11.01.18] - Day 1
-		- [18.01.18] - Day 2
-		- [25.01.18] - Day 3
-		- [01.02.18] - Day 4
+- [21.12.17]
+	- **Project mid-term presentations (2:15pm)**	
+- [01.02.18]
+	- **Project final presentations (2pm)**
+
+### Final Presentations
+- Talk 1) Agustinus and Yonathan
+- Talk 2) Seyithan
+- Talk 3) Saad
+- Talk 4) Samin
+- Talk 5) Eva
+- Talk 6) Xiaotian
+- Talk 7) Viviane
+- Talk 8) Saptarshi
 
 ### Topics (feel free to suggest a different topic)
 
 |id| Project Description | Short Description  | Student(s) | Adviser  |
 |--|---------------------|-------------------|---------|----------|
-|**proj01w17**| **Text Similarity**  | **Understand and compute different similarity measures** |  **Eva Gerlitz**  | **Diego Esteves** | 
-|**proj02w17**| **Information Retrieval** | **Reading, understanding and export metadata from PDF documents** |  **Samin Payro**  | **Diego Esteves** | 
-|**proj03w17**| **Ranking Websites**  | **Clustering websites by categories** |  **Marina Mircheska**  | **Diego Esteves** |
-|proj04w17| Fake News - Triple Validation  | Verifying veracity of claims in RDF |  -  | Diego Esteves | 
-|proj05w17| Fake News - Social Bots, Chatbots  | Identify fake web profiles |  -  | Diego Esteves |
-|**proj06w17**| **Named Entity Recognition**  | **NER for short text** |  **Saad Khan**  | **Diego Esteves** |
-|proj07w17| Textual Entailment  | Directional relation between text fragments |  -  | Diego Esteves |
-|proj08w17| Question Answering  |  |  -  | Mohnish Dubey |
-|proj08w17| Benchmarking Matrics for QA :fire:  |  |  -  | Mohnish Dubey |
-|proj09w17| Dialogue Systems  |  |  -  | Mohnish Dubey |
-|**proj10w17**| **Text Generation**  | **Generative model for textual data**  | **Agustinus Kristiadi, Yonathan Santosa** | **Mohnish Dubey** |
-|**proj11w17**| **Sentiment Analysis**  | **Predicting IMDB movie score of an individual based on their review** | **Seyithan Dag** | **Diego Esteves, Mohnish Dubey** |
+|**proj01w1718**| **Text Similarity**  | **Understand and compute different similarity measures** |  **Eva Gerlitz**  | **Diego Esteves** | 
+|**proj02w1718**| **Information Retrieval** | **Reading, understanding and export metadata from PDF documents** |  **Samin Payro**  | **Diego Esteves** | 
+|**proj03w1718**| **Ranking Websites**  | **Clustering websites by categories** |  **Xiaotian**  | **Diego Esteves** |
+|**proj04w1718**| **Named Entity Recognition**  | **NER for short text** |  **Saad Khan**  | **Diego Esteves** |
+|**proj05w1718**| **Question Answering**  | **Relation Identification and Linking** |  **Saptarshi Bhattacharya**  | **Mohnish Dubey** |
+|**proj06w1718**| **Dialogue Systems**  |  | **Viviane Becker** | **Mohnish Dubey** |
+|**proj07w1718**| **Text Generation**  | **Generative model for textual data**  | **Agustinus Kristiadi, Yonathan Santosa** | **Mohnish Dubey** |
+|**proj08w1718**| **Sentiment Analysis**  | **Predicting IMDB movie score of an individual based on their review** | **Seyithan Dag** | **Diego Esteves, Mohnish Dubey** |
+|proj09w1718| Fake News - Triple Validation  | Verifying veracity of claims in RDF |  -  | Diego Esteves | 
+|proj10w1718| Fake News - Social Bots, Chatbots  | Identify fake web profiles |  -  | Diego Esteves |
+|proj11w1718| Textual Entailment  | Directional relation between text fragments |    | Diego Esteves |
 
 #### DO NOT FORGET TO COMMIT AND PUSH YOUR FILES BEFORE THE DUE DATE!
 
