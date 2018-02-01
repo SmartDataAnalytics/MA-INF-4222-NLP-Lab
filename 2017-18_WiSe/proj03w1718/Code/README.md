@@ -1,7 +1,8 @@
 # Web Ranking
-## In order to run the project
-1. please make sure to replace the path in `trustlist = pd.read_csv("/home/xiaotianzhou/Downloads/newsCorpora.csv", sep='\t', names = ["ID", "TITLE", "URL", "PUBLISHER", "CATEGORY", "STORY", "HOSTNAME", "TIMESTAMP" ])`
-2. Install dependencies
+## In order to run the Code
+1. please make sure that you replace the path in `trustlist = pd.read_csv("/yourpath/newsCorpora.csv", sep='\t', names = ["ID", "TITLE", "URL", "PUBLISHER", "CATEGORY", "STORY", "HOSTNAME", "TIMESTAMP" ])`
+2. the size of file `newsCorpora.csv` is over 100MB and the push is always rejected, thus it should be downloaded from https://archive.ics.uci.edu/ml/datasets/News+Aggregator
+3. There are two scripts 
 ```
 cd horus-api
 npm install
