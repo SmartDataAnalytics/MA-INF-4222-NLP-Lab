@@ -1,1 +1,1 @@
-##Project 03: Ranking Websites - Clustering websites by categories
+Project 03: Ranking Websites - Clustering websites by categories
