@@ -1,6 +1,8 @@
 # MA-INF-4222-Lab-SoSe2018
 Repository for Lab “Natural Language Processing” (MA-INF 4222), Summer 2018, University of Bonn
 
+[**Please register here (SS2018)**](https://docs.google.com/forms/d/e/1FAIpQLSdjCWyeyPTnorNrIGzxjY4kIT2BFe8KP3nf1kVoO9OD5vnk5A/viewform)
+
 #### Schedule
 - TBA
 
