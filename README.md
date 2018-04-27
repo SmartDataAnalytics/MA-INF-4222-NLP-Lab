@@ -62,7 +62,9 @@ example: ```\SoSe17\project01\code```and ```\SoSe17\project01\presentation``` :f
 - **When?** 17.04.2018 bis 17.07.2018
 - **Where?** Endenicher Allee 19A, INF/B-IT/Seminarraum 1.047, Informatik III 
 - **Time?** 3PM 
-- Joint kick-off meeting date (NLP seminars and labs): **17.04.2018 14:30h**.
+- Joint kick-off meeting date (NLP seminars and labs): **17.04.2018 14:30h**
+
+[**Please register here (SS2018)**](https://docs.google.com/forms/d/e/1FAIpQLSdjCWyeyPTnorNrIGzxjY4kIT2BFe8KP3nf1kVoO9OD5vnk5A/viewform)
 
 [~~Winter Semester 2017-18~~](https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-Lab/tree/master/2017-18_WiSe) :snowflake:
 
