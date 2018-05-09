@@ -55,16 +55,6 @@ Grades for this LAB will be assessed as follows:
 
 example: ```\SoSe17\project01\code```and ```\SoSe17\project01\presentation``` :floppy_disk:
 
-3) Upload your **exercises** to: 
-
-```\<semester>\exercises\<student_id>\<file_name>``` :heavy_check_mark:
-
-**notes**
-
-*1 - please add your full name as a comment in your code files*
-
-*2 - file_name template = "task_x.py"*
-
 ### More Info :calendar:
 (submission dates, tasks, project descriptions, etc..)
 

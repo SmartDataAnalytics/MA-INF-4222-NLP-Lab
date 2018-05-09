@@ -4,28 +4,22 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Summer 2018,
 [**Please register here (SS2018)**](https://docs.google.com/forms/d/e/1FAIpQLSdjCWyeyPTnorNrIGzxjY4kIT2BFe8KP3nf1kVoO9OD5vnk5A/viewform)
 
 #### Schedule
-	- 17.04.2018 - Joint meeting NLP seminars and labs
-	- 24.04.2018 - Lecture 1
-	- 01.05.2018 - Holidays
-	- 08.05.2018 - Lecture 2
-	- 15.05.2018 - Lecture 3 (+project's topic discussion)
-	- 22.05.2018 - Lecture 4 (+project's topic decision)
+- TBA
 
-#### Lab Tasks (warm-up)
-	- Task 1 (POS Tagger) - **due to 08.05.2018**
-	- Task 2 (Fact-checking) - **due to 22.05.2018**
-	- Task 3 (TBD) - **due to 29.05.2018**
+#### Lab Tasks
+	- 17.04.2018 - Joint meeting NLP seminars and labs
 
 #### Project Assignment
-	- **Topics assignment - deadline: 22.05.2018** (topic list will be presented in 15.05.2018)
+
+- TBA
 
 |ID| Project Description | Task Description  | Student(s) | Adviser  |
 |---|---------------------|-------------------|---------|----------|
 |project01| --  | -- | --    | Esteves  |
 
 ### Evaluation
-  - Exercises (15%) 
-  - Project (75%) 
+  - Exercises (30%) 
+  - Project (60%) 
   - Presentation (10%)
 
 ### Useful Resources
