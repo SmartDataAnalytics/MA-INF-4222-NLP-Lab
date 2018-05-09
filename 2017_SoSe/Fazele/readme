@@ -1,0 +1,7 @@
+
+For running the code, please add "stanford-corenlp-3.7.0.jar" and "interviews-master.jar" files to your project.
+Furthermore, please change the paths of input files at the line 16,37  of "Corpus" class and the line 199
+of "KeyWordExtractorMain" class.
+Precision and recall of the implemented method for finding keywords of each input file, is computed in the last part
+of the "KeyWordExtractorMain" class.
+For computing average precision and recall, run "ComputeAvgPrecRecalMain" class.

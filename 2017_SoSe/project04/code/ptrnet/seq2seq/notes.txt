@@ -1,0 +1,4 @@
+For example in our seq to seq model for generating questions :
+
+Input dimnesions were - 200 (GLOVE 200)
+Input Lenght - MaxSequenceLength 	

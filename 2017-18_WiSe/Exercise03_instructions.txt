@@ -1,0 +1,28 @@
+#### Fake news detector
+
+TASK
+
+1. Based on the code below (credits to Katharine), implement your classifier (e.g. Random Forest, NN, SVM or ...) using scikit-learn   
+https://github.com/kjam/random_hackery/blob/master/Attempting%20to%20detect%20fake%20news.ipynb
+
+note: A datacamp tutorial of this code is also available at: https://www.datacamp.com/community/tutorials/scikit-learn-fake-news
+
+2. Adapt (add/modify) your new features
+
+EVALUATION
+
+3. Run your model over the liar dataset
+
+https://www.cs.ucsb.edu/~william/papers/acl2017.pdf
+https://www.cs.ucsb.edu/~william/data/liar_dataset.zip
+
+note: 
+- this dataset has a more granular distribution of labels (i.e. not only TRUE or FALSE), please run it considering:
+
+Scenario 1)
+- true x all
+
+Scenario 2)
+- (true + mostly true + half true) x all
+
+
