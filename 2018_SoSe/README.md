@@ -9,7 +9,7 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Summer 2018,
 	- 01.05.2018 - Holidays
 	- 08.05.2018 - Lecture 2
 	- 15.05.2018 - Lecture 3 (+project's topic presentation/discussion)
-	- 22.05.2018 - project's topic decision (**NO CLASS**)
+	- 22.05.2018 - project's topic decision (**No lecture today! | Heute fällt der Unterricht aus**)
 		- *students should update the "project assignment" table below via pull request*
 		- *first-come, first-served basis!*
 	- 22.05.2018 - Working on the projects (min. group of N=3 people)
