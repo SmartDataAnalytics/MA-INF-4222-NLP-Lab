@@ -28,7 +28,7 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Summer 2018,
 |02| DeFacto | (RDF triple) claim ranking | benchmarking N models + designing a model  | -- | Esteves  |
 |03| DeFacto | (Natural Language) claim validation | benchmarking N models + desigining a model | -- | Esteves  |
 |04| DeFacto | WebTrustworthiness | computing trustworthiness indicators for websites | -- | Esteves  |
-|05| HORUS | Text Classification (Neural Nets) | Integrating and benchmarking text classification techniques in NER | 3067341-Torayev, s6toelve-Elvermann, we are looking for the third member | Esteves  |
+|05| HORUS | Text Classification (Neural Nets) | Integrating and benchmarking text classification techniques in NER | (3067341-Torayev, s6toelve-Elvermann, we are looking for the third member) | Esteves  |
 |06| HORUS | Computer Vision (Neural Nets) | Integrating and benchmarking computer vision techniques in NER | -- | Esteves  |
 |07| HORUS | Extending HORUS NER | NER in Novel and Emerging Entity Recognition | -- | Esteves  |
 ....
