@@ -38,7 +38,7 @@ def get_dataset3_split(dataset1_in, dataset2_in):
 
         print(df3['y'].value_counts())
         print('done')
-        return train_test_split(df3['claim'], df3['y'], test_size=0.30, random_state=35)
+        return train_test_split(df3['claim'], df3['y'], test_size=0.30, random_state=4222)
     except Exception as e:
         print(e)
 
