@@ -70,6 +70,6 @@ print("neg_acc", neg_ok/neg_cnt*100, "%")
 
 X2 = ['what are u going to say about that? the truth, wassock?!']
 X2 = tok.texts_to_sequences(X2)
-X2 = pad_sequences(X2, maxlen=28, dtype='int32', value=0)
+X2 = pad_sequences(X2, maxlen=26, dtype='int32', value=0)
 print(X2)
 print(nn.predict(X2, batch_size=1, verbose = 2)[0])
