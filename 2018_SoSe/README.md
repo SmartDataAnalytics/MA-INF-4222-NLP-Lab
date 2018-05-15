@@ -12,7 +12,10 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Summer 2018,
 	- 22.05.2018 - project's topic decision (**No lecture today! | Heute fällt der Unterricht aus**)
 		- *students should update the "project assignment" table below via pull request*
 		- *first-come, first-served basis!*
+		- *add a new line if you want to work in something not listed!*
 	- 22.05.2018 - Working on the projects (min. group of N=3 people)
+	- 12.06.2018 - Mid-term presentations (10min talk/group)
+	- 17, 24 and 31.07.2018 - Final presentations (20min talk/group)
 
 #### Lab Tasks (warm-up)
 	- Task 1 (POS Tagger) - **due to 08.05.2018**
