@@ -20,7 +20,7 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Summer 2018,
 #### Lab Tasks (warm-up)
 	- Task 1 (POS Tagger) - **due to 08.05.2018**
 	- Task 2 (Fact-checking) - **due to 22.05.2018**
-	- Task 3 (TBD) - **due to 29.05.2018**
+	- Task 3 (Sentiment Analysis) - **due to 29.05.2018**
 
 #### Project Assignment
 	- **Topics assignment - deadline: 22.05.2018** (topic list will be presented in 15.05.2018)
