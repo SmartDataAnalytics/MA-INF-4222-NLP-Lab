@@ -12,12 +12,18 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Summer 2018,
 	- 22.05.2018 - project's topic decision (**No lecture today! | Heute fällt der Unterricht aus**)
 		- *students should update the "project assignment" table below via pull request*
 		- *first-come, first-served basis!*
+
 	- 22.05.2018 - Working on the projects (min. group of N=3 people)
+		- *add a new line if you want to work in something not listed!*
+	- 22.05.2018 - Working on the projects (min. group of N=3 people)
+	- 12.06.2018 - Mid-term presentations (10min talk/group)
+	- 17, 24 and 31.07.2018 - Final presentations (20min talk/group)
 
 #### Lab Tasks (warm-up)
 	- Task 1 (POS Tagger) - **due to 08.05.2018**
 	- Task 2 (Fact-checking) - **due to 22.05.2018**
 	- Task 3 (TBD) - **due to 29.05.2018**
+	- Task 3 (Sentiment Analysis) - **due to 29.05.2018**
 
 #### Project Assignment
 	- **Topics assignment - deadline: 22.05.2018** (topic list will be presented in 15.05.2018)
@@ -31,6 +37,12 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Summer 2018,
 |05| HORUS | Text Classification (Neural Nets) | Integrating and benchmarking text classification techniques in NER | (3067341-Torayev, 3004974-Elvermann, we are looking for the third member) | Esteves  |
 |06| HORUS | Computer Vision (Neural Nets) | Integrating and benchmarking computer vision techniques in NER | -- | Esteves  |
 |07| HORUS | Extending HORUS NER | NER in Novel and Emerging Entity Recognition | -- | Esteves  |
+|08| SDA | I am groot  | Sentimental Analysis over dialog | -- | Mohnish D  |
+|09| AskNowQA| NL2SPARQL | Converting Natural Language Question to SPARQL  | -- | Mohnish D  |
+|10| AskNowQA| GK Ques to KB | Aligning general knowledge question to Knowledge Graphs   | -- | Mohnish D  |
+|11| AskNowQA| Guess me? Who am I ? | Asking user to identifying the entity given the information   | -- | Mohnish D  |
+|12| AskNowQA| Chatbot | A chat bot that answers natural language questions over dbpedia knowledge base   | Debayan Banerjee(3034800)/Pooja Bhatia(3143760)/Jing-Long Wu(3045999) | Mohnish D /Debanjan  |
+|13| NSpM | Composition in Neural QA | Using Curriculum Learning to learn SPARQL compositions | -- | Esteves / Tommaso |
 ....
 more to come!
 
@@ -41,6 +53,8 @@ more to come!
 [HORUS](https://github.com/SmartDataAnalytics/horus-ner)
 
 [ASKNow](https://github.com/AskNowQA)
+
+[NSpM](https://github.com/AKSW/NSpM)
 
 ### Evaluation
   - Exercises (15%) 
