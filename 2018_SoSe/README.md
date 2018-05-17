@@ -3,6 +3,8 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Summer 2018,
 
 [**Please register here (SS2018)**](https://docs.google.com/forms/d/e/1FAIpQLSdjCWyeyPTnorNrIGzxjY4kIT2BFe8KP3nf1kVoO9OD5vnk5A/viewform)
 
+**Please join the group for discussion: nlp_labs_unibonn_sose2018@googlegroups.com**
+
 #### Schedule
 	- 17.04.2018 - Joint meeting NLP seminars and labs
 	- 24.04.2018 - Lecture 1
