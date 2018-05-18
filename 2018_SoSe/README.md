@@ -1,9 +1,13 @@
 # MA-INF-4222-Lab-SoSe2018
 Repository for Lab “Natural Language Processing” (MA-INF 4222), Summer 2018, University of Bonn
 
-[**Please register here (SS2018)**](https://docs.google.com/forms/d/e/1FAIpQLSdjCWyeyPTnorNrIGzxjY4kIT2BFe8KP3nf1kVoO9OD5vnk5A/viewform)
+**Please:**
 
-**Please join the group for discussion: nlp_labs_unibonn_sose2018@googlegroups.com**
+1. [**Register (SS2018)**](https://docs.google.com/forms/d/e/1FAIpQLSdjCWyeyPTnorNrIGzxjY4kIT2BFe8KP3nf1kVoO9OD5vnk5A/viewform)
+
+2. **Join the group for discussion: nlp_labs_unibonn_sose2018@googlegroups.com**
+
+3. **Check the supervisor's avaliability for meetings and project's discussion [here](https://docs.google.com/spreadsheets/d/16w-LJ3ZgoXCI6e33X-DLBkvjwGA9P83GvnCXEBTKlRw/edit#gid=303121421)**
 
 #### Schedule
 	- 17.04.2018 - Joint meeting NLP seminars and labs
