@@ -33,7 +33,7 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Summer 2018,
 |ID| Open-Source? | Lab Project | Task Description  | Student(s) | Adviser  |
 |---|---------------------|---------------------|-------------------|---------|----------|
 |01| DeFacto | (RDF triple) claim validation | benchmarking N models + designing a model | ({matriculation-lastname, matriculation-lastname, ...}) | Esteves  |
-|02| DeFacto | (RDF triple) claim ranking | benchmarking N models + designing a model  | -- | Esteves  |
+|02| DeFacto | (RDF triple) claim ranking | benchmarking N models + designing a model  | (Omar Sallam) | Esteves  |
 |03| DeFacto | (Natural Language) claim validation | benchmarking N models + desigining a model | -- | Esteves  |
 |04| DeFacto | WebTrustworthiness | computing trustworthiness indicators for websites | (374183- Rakesh Lagare, 374559 -Nagesh Ramamoorthy | Esteves  |
 |05| HORUS | Text Classification (Neural Nets) | Integrating and benchmarking text classification techniques in NER | (3067341-Torayev, 3004974-Elvermann, we are looking for the third member) | Esteves  |
