@@ -25,7 +25,7 @@ AVZ III / Römerstr. 164	(schedule see [more info](https://github.com/SmartDataA
 - please join the **respective google group** for your semester (see [more info](https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-Lab#more-info-calendar) below)
 
 ### Pre-requisites :warning:
-- Programming language skills (preferable: Python :snake: or Java :coffee:) 
+- Programming language skills (preferable: Python! :snake: or Java? :coffee:) 
 
 ### Overview :mag:
 This LAB is organised as follows:
