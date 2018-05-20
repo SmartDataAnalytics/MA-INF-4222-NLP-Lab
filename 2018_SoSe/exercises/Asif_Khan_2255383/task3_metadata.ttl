@@ -14,42 +14,42 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-this:configuration1 mexcore:ExperimentConfiguration prov:Entity ;
+this:configuration1 a mexcore:ExperimentConfiguration ;
     prov:used this:model1 ;
     prov:wasStartedBy this:khan_task3 .
 
-this:configuration2 mexcore:ExperimentConfiguration prov:Entity ;
+this:configuration2 a mexcore:ExperimentConfiguration ;
     prov:used this:model2 ;
     prov:wasStartedBy this:khan_task3 .
 
-this:dataset rdfs:label "Sentiment-Classification" ;
-    mexcore:Dataset prov:Entity ;
+this:dataset a mexcore:Dataset ;
+    rdfs:label "Sentiment-Classification" ;
     dct:landingPage "https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-Lab/blob/master/2018_SoSe/exercises/dataset_sentiment.csv" .
 
-this:execution1 mexcore:ExecutionOverall prov:Entity ;
+this:execution1 a mexcore:ExecutionOverall ;
     prov:generated this:performance_measures1 ;
     prov:used this:hyerparameter_model1,
         this:model1,
         this:test .
 
-this:execution2 mexcore:ExecutionOverall prov:Entity ;
+this:execution2 a mexcore:ExecutionOverall ;
     prov:generated this:performance_measures2 ;
     prov:used this:hyerparameter_model2,
         this:model2,
         this:test .
 
-this:hyerparameter_model1 mexalgo:HyperParameterCollection prov:Entity ;
+this:hyerparameter_model1 a mexalgo:HyperParameterCollection ;
     prov:hadMember this:hyerparameter1,
         this:hyerparameter2,
         this:hyerparameter3 .
 
-this:hyerparameter_model2 rdfs:label "HyperParameterCollection" ;
-    mexalgo:HyperParameterCollection prov:Entity ;
+this:hyerparameter_model2 a mexalgo:HyperParameterCollection ;
+    rdfs:label "HyperParameterCollection" ;
     prov:hadMember this:hyerparameter4,
         this:hyerparameter5,
         this:hyerparameter6 .
 
-this:performance_measures1 mexcore:PerformanceMeasure prov:Entity ;
+this:performance_measures1 a mexcore:PerformanceMeasure ;
     mexperf:accuracy "0.85"^^xsd:float ;
     mexperf:neg_accuracy "0.95"^^xsd:float,
         "0.97"^^xsd:float ;
@@ -58,63 +58,63 @@ this:performance_measures1 mexcore:PerformanceMeasure prov:Entity ;
     mexperf:score "0.36"^^xsd:float ;
     prov:wasGeneratedBy this:execution1 .
 
-this:performance_measures2 mexcore:PerformanceMeasure prov:Entity ;
+this:performance_measures2 a mexcore:PerformanceMeasure ;
     mexperf:accuracy "0.85"^^xsd:float ;
     mexperf:score "0.36"^^xsd:float ;
     prov:wasGeneratedBy this:execution2 .
 
-this:hyerparameter1 rdfs:label "HyperParameterCollection",
+this:hyerparameter1 a mexalgo:HyperParameter ;
+    rdfs:label "HyperParameterCollection",
         "embedding_dimension" ;
-    mexalgo:HyperParameter prov:Entity ;
     dct:identifier "embedding_dimension" ;
     prov:value 128 .
 
-this:hyerparameter2 rdfs:label "dropout" ;
-    mexalgo:HyperParameter prov:Entity ;
+this:hyerparameter2 a mexalgo:HyperParameter ;
+    rdfs:label "dropout" ;
     dct:identifier "dropout" ;
     prov:value "0.1"^^xsd:float .
 
-this:hyerparameter3 rdfs:label "recurrent_dropout" ;
-    mexalgo:HyperParameter prov:Entity ;
+this:hyerparameter3 a mexalgo:HyperParameter ;
+    rdfs:label "recurrent_dropout" ;
     dct:identifier "recurrent_dropout" ;
     prov:value "0.1"^^xsd:float .
 
-this:hyerparameter4 rdfs:label "embedding_dimension" ;
-    mexalgo:HyperParameter prov:Entity ;
+this:hyerparameter4 a mexalgo:HyperParameter ;
+    rdfs:label "embedding_dimension" ;
     dct:identifier "embedding_dimension" ;
     prov:value 128 .
 
-this:hyerparameter5 rdfs:label "convolution_filters" ;
-    mexalgo:HyperParameter prov:Entity ;
+this:hyerparameter5 a mexalgo:HyperParameter ;
+    rdfs:label "convolution_filters" ;
     dct:identifier "convolution_filters" ;
     prov:value 12 .
 
-this:hyerparameter6 rdfs:label "filter_size" ;
-    mexalgo:HyperParameter prov:Entity ;
+this:hyerparameter6 a mexalgo:HyperParameter ;
+    rdfs:label "filter_size" ;
     dct:identifier "filter_size" ;
     prov:value 3 .
 
-this:khan_task3 rdfs:label "2255383" ;
-    mexcore:ApplicationContext prov:Entity ;
-    mexcore:Experiment prov:Entity ;
+this:khan_task3 a mexcore:ApplicationContext,
+        mexcore:Experiment ;
+    rdfs:label "2255383" ;
     dct:date "2018-05-15"^^xsd:date ;
     foaf:givenName "Asif" ;
     foaf:mbox "mak4086@gmail.com" .
 
-this:model1 rdfs:label "LSTM" ;
-    mexalgo:Algorithm prov:Entity ;
+this:model1 a mexalgo:Algorithm ;
+    rdfs:label "LSTM" ;
     mexalgo:hasHyperParameter this:hyerparameter1,
         this:hyerparameter2,
         this:hyerparameter3 ;
     dct:identifier "LSTM" .
 
-this:model2 rdfs:label "TemporalConvolution" ;
-    mexalgo:Algorithm prov:Entity ;
+this:model2 a mexalgo:Algorithm ;
+    rdfs:label "TemporalConvolution" ;
     mexalgo:hasHyperParameter this:hyerparameter4,
         this:hyerparameter5,
         this:hyerparameter6 ;
     dct:identifier "TemporalConvolution" .
 
-this:test rdfs:label "Test" ;
-    mexcore:Test prov:Entity .
+this:test a mexcore:Test ;
+    rdfs:label "Test" .
 
