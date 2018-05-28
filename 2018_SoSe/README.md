@@ -38,7 +38,7 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Summer 2018,
 |09| AskNowQA| NL2SPARQL | Converting Natural Language Question to SPARQL  | -- | Mohnish D  |
 |10| AskNowQA| GK Ques to KB | Aligning general knowledge question to Knowledge Graphs   | -- | Mohnish D  |
 |11| AskNowQA| Guess me? Who am I ? | Asking user to identifying the entity given the information   | -- | Mohnish D  |
-|12| AskNowQA| Chatbot | A chat bot that answers natural language questions over dbpedia knowledge base   | Debayan Banerjee(3034800)/Pooja Bhatia(3143760)/Jing-Long Wu(3045999) | Mohnish D /Debanjan  |
+|12| AskNowQA| Chatbot | Key-Value Retrieval Networks for Task-Oriented Dialogue https://arxiv.org/pdf/1705.05414.pdf | Debayan Banerjee(3034800)/Pooja Bhatia(3143760)/Jing-Long Wu(3045999) | Mohnish D /Debanjan  |
 |13| NSpM | Composition in Neural QA | Using Curriculum Learning to learn SPARQL compositions | -- | Esteves / Tommaso |
 
 
