@@ -40,7 +40,7 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Summer 2018,
 |02| DeFacto | (RDF triple) claim ranking | benchmarking N models + designing a model  | (Omar Sallam) | Esteves  |
 |03| DeFacto | (Natural Language) claim validation | benchmarking N models + desigining a model | -- | Esteves  |
 |04| DeFacto | WebTrustworthiness | computing trustworthiness indicators for websites | (374183- Rakesh Lagare, 374559 -Nagesh Ramamoorthy | Esteves  |
-|05| HORUS | Text Classification (Neural Nets) | Integrating and benchmarking text classification techniques in NER | (3067341-Torayev, 3004974-Elvermann,7344284-Hausladen  | Esteves  |
+|05| HORUS | Text Classification (Neural Nets) | Integrating and benchmarking text classification techniques in NER | (3067341-Torayev, 3004974-Elvermann, we are looking for the third member) | Esteves  |
 |06| HORUS | Computer Vision (Neural Nets) | Integrating and benchmarking computer vision techniques in NER | -- | Esteves  |
 |07| HORUS | Extending HORUS NER | NER in Novel and Emerging Entity Recognition | -- | Esteves  |
 |08| SDA | I am groot  | Sentimental Analysis over dailog | (2719095-Draschner, 2571421-Weinz, 2468882-Pielka| Mohnish D  |
@@ -51,7 +51,6 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Summer 2018,
 |13| NSpM | Composition in Neural QA | Using Curriculum Learning to learn SPARQL compositions | -- | Esteves / Tommaso |
 |14| -- | Neural Network based Commonsense causal reasoning | Learn latent representation of ConceptNet. Further combine it with seq2seq model to predict response for a given premise.  | 2255383-Asif Khan | Esteves |
 |15| -- | Summarization | Summarization of PubMed Abstracts into maximum three sentences | Ricardo Martinez (2970600), Dejan Dukic (2984857) | Esteves |
-
 ....
 more to come!
 
