@@ -1,0 +1,107 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix doap: <http://usefulinc.com/ns/doap#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix mexalgo: <http://mex.aksw.org/mex-algo#> .
+@prefix mexcore: <http://mex.aksw.org/mex-core#> .
+@prefix mexperf: <http://mex.aksw.org/mex-perf#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix this: <http://mex.aksw.org/examples/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+this:configuration_rcnn a mexcore:ExperimentConfiguration ;
+    prov:used this:model2 ;
+    prov:wasStartedBy this:torayeff_exp_rcnn .
+
+this:dataset a mexcore:Dataset ;
+    rdfs:label "Sentiment-Classification" ;
+    dct:landingPage "https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-Lab/blob/master/2018_SoSe/exercises/dataset_sentiment.csv" .
+
+this:hyperparameter_model_rcnn a mexalgo:HyperParameterCollection ;
+    rdfs:label "HyperParameterCollection" ;
+    prov:hadMember this:hyerparameter1,
+        this:hyerparameter2,
+        this:hyerparameter3,
+        this:hyerparameter4,
+        this:hyerparameter5,
+        this:hyerparameter6,
+        this:hyerparameter7 .
+
+this:model1 a mexalgo:Algorithm ;
+    rdfs:label "Convolution1D",
+        "Embedding",
+        "LSTM" ;
+    mexalgo:hasHyperParameter this:hyperparameter1,
+        this:hyperparameter2,
+        this:hyperparameter3,
+        this:hyperparameter4,
+        this:hyperparameter5,
+        this:hyperparameter6,
+        this:hyperparameter7 ;
+    dct:identifier "Convolution1D",
+        "Embedding",
+        "LSTM" .
+
+this:execution1 a mexcore:ExecutionOverall ;
+    prov:generated this:performance_measures1 ;
+    prov:used this:hyerparameter_model_rcnn,
+        this:model_rcnn,
+        this:test .
+
+this:hyerparameter1 a mexalgo:HyperParameter ;
+    rdfs:label "max_features" ;
+    dct:identifier "max_features" ;
+    prov:value 5000 .
+
+this:hyerparameter2 a mexalgo:HyperParameter ;
+    rdfs:label "max_len" ;
+    dct:identifier "max_len" ;
+    prov:value 100 .
+
+this:hyerparameter3 a mexalgo:HyperParameter ;
+    rdfs:label "embedding_size" ;
+    dct:identifier "embedding_size" ;
+    prov:value 256 .
+
+this:hyerparameter4 a mexalgo:HyperParameter ;
+    rdfs:label "kernel_size" ;
+    dct:identifier "kernel_size" ;
+    prov:value 5 .
+
+this:hyerparameter5 a mexalgo:HyperParameter ;
+    rdfs:label "filters" ;
+    dct:identifier "filters" ;
+    prov:value 64 .
+
+this:hyerparameter6 a mexalgo:HyperParameter ;
+    rdfs:label "pool_size" ;
+    dct:identifier "pool_size" ;
+    prov:value 4 .
+
+this:hyerparameter7 a mexalgo:HyperParameter ;
+    rdfs:label "lstm_output_size" ;
+    dct:identifier "lstm_output_size" ;
+    prov:value 70 .
+
+this:performance_measures1 a mexcore:PerformanceMeasure ;
+    mexperf:accuracy "0.85"^^xsd:float ;
+    mexperf:neg_accuracy "0.93"^^xsd:float ;
+    mexperf:pos_accuracy "0.56"^^xsd:float ;
+    mexperf:score "0.35"^^xsd:float ;
+    prov:wasGeneratedBy this:execution1 .
+
+this:test a mexcore:Test ;
+    rdfs:label "Test" .
+
+this:torayeff_exp_rcnn a mexcore:ApplicationContext,
+        mexcore:Experiment ;
+    rdfs:label "3067341" ;
+    dct:date "2018-05-28"^^xsd:date ;
+    foaf:givenName "Agajan" ;
+    foaf:mbox "torayevagajan@gmail.com" .
+

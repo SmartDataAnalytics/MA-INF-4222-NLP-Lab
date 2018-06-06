@@ -1,0 +1,187 @@
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix this:  <http://mex.aksw.org/examples/> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix mexcore: <http://mex.aksw.org/mex-core#> .
+@prefix doap:  <http://usefulinc.com/ns/doap#> .
+@prefix mexperf: <http://mex.aksw.org/mex-perf#> .
+@prefix mexalgo: <http://mex.aksw.org/mex-algo#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix prov:  <http://www.w3.org/ns/prov#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+this:torayeff_exp	a	mexcore:Experiment;
+					a	mexcore:ApplicationContext ;
+					rdfs:label            "3067341" ;
+        			dct:date	"2018.05.18 22:39:01 CEST" ;
+        			foaf:givenName        "Agajan Torayev" ;
+        			foaf:mbox             "torayevagajan@gmail.com" .
+
+this:torayeff_exp_cf_1
+					a	mexcore:ExperimentConfiguration ;
+        			prov:used	this:torayeff_exp_algo_1 ;
+        			prov:wasStartedBy  this:torayeff_exp .       			
+
+this:torayeff_exp_cf_2
+					a	mexcore:ExperimentConfiguration ;
+        			prov:used	this:torayeff_exp_algo_2 ;
+        			prov:wasStartedBy  this:torayeff_exp .
+
+this:torayeff_exp_cf_3
+					a	mexcore:ExperimentConfiguration ;
+        			prov:used	this:torayeff_exp_algo_2 ;
+        			prov:wasStartedBy  this:torayeff_exp .
+
+this:torayeff_exp_cf_4
+					a	mexcore:ExperimentConfiguration ;
+        			prov:used	this:torayeff_exp_algo_3 ;
+        			prov:wasStartedBy  this:torayeff_exp .
+
+this:torayeff_exp_test
+					a	mexcore:Test ;
+        			rdfs:label	"Test" .
+
+this:torayeff_hyperp_col_cf1
+					a	mexalgo:HyperParameterCollection ;
+        			rdfs:label	"HyperParameter Collection" ;
+        			prov:hadMember  this:torayeff_hyperpar_1 .
+
+this:torayeff_hyperp_col_cf2
+					a	mexalgo:HyperParameterCollection ;
+        			rdfs:label	"HyperParameter Collection" ;
+        			prov:hadMember  this:torayeff_hyperpar_2, this:torayeff_hyperpar_3 .
+
+this:torayeff_hyperp_col_cf3
+					a	mexalgo:HyperParameterCollection ;
+        			rdfs:label	"HyperParameter Collection" ;
+        			prov:hadMember  this:torayeff_hyperpar_4, this:torayeff_hyperpar_5 .
+
+this:torayeff_hyperpar_1
+					a	mexalgo:HyperParameter ;
+        			rdfs:label	"alpha" ;
+        			dct:identifier	"alpha" ;
+        			prov:value	"0.05" .
+
+this:torayeff_hyperpar_2
+					a	mexalgo:HyperParameter ;
+        			rdfs:label	"max_iter" ;
+        			dct:identifier	"max_iter" ;
+        			prov:value	"1000" .
+
+this:torayeff_hyperpar_3
+					a	mexalgo:HyperParameter ;
+        			rdfs:label	"loss" ;
+        			dct:identifier	"loss" ;
+        			prov:value	"squared_hinge" .
+
+this:torayeff_hyperpar_4
+					a	mexalgo:HyperParameter ;
+        			rdfs:label	"n_estimators" ;
+        			dct:identifier	"n_estimators" ;
+        			prov:value	"50" .
+
+this:torayeff_hyperpar_5
+					a	mexalgo:HyperParameter ;
+        			rdfs:label	"criterion" ;
+        			dct:identifier	"criterion" ;
+        			prov:value	"entropy" .
+
+this:torayeff_ds_1
+					a	mexcore:Dataset ;
+        			rdfs:label	"Fake or Real News" ;
+        			dcat:landingPage  "https://github.com/GeorgeMcIntire/fake_real_news_dataset" .
+
+this:torayeff_ds_2
+					a	mexcore:Dataset ;
+        			rdfs:label	"Liar Liar Pants on Fire" ;
+        			dcat:landingPage  "https://www.cs.ucsb.edu/william/data/liar_dataset.zip" .
+
+this:torayeff_ds_3
+					a	mexcore:Dataset ;
+        			rdfs:label	"Fake or Real News + Liar Liar Pants on Fire" ;
+        			dcat:landingPage  "https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-Lab/blob/master/2018_SoSe/exercises/task2_datasets1_2.zip" .
+
+this:torayeff_cross_val
+        			a	mexcore:CrossValidation ;
+        			rdfs:label	"Cross Validation" ;
+        			mexcore:folds	"5" ;
+        			mexcore:sequential	"true" ;
+        			mexcore:testSize	"0.25" ;
+        			mexcore:trainSize	"0.75" ;
+        			mexcore:random_state "4222" .
+
+this:torayeff_exe_1
+					a	mexcore:ExecutionOverall ;
+					prov:generated	this:torayeff_mea_1;
+        			prov:used	this:torayeff_exp_test, this:torayeff_hyperp_col_cf1, this:torayeff_exp_algo_1 ;
+        			prov:wasInformedBy	this:torayeff_exp .
+
+this:torayeff_exe_2
+					a	mexcore:ExecutionOverall ;
+        			prov:generated	this:torayeff_mea_2;
+        			prov:used	this:torayeff_exp_test, this:torayeff_hyperp_col_cf2, this:torayeff_exp_algo_2 ;
+        			prov:wasInformedBy	this:torayeff_exp .
+
+this:torayeff_exe_3
+					a	mexcore:ExecutionOverall ;
+        			prov:generated	this:torayeff_mea_3;
+        			prov:used	this:torayeff_exp_test, this:torayeff_hyperp_col_cf2, this:torayeff_exp_algo_2 ;
+        			prov:wasInformedBy	this:torayeff_exp .
+
+this:torayeff_exe_4
+					a	mexcore:ExecutionOverall ;
+        			prov:generated	this:torayeff_mea_4;
+        			prov:used	this:torayeff_exp_test, this:torayeff_hyperp_col_cf3, this:torayeff_exp_algo_3 ;
+        			prov:wasInformedBy	this:torayeff_exp .
+
+this:torayeff_mea_1
+					a	mexperf:PerformanceMeasure ;
+					mexperf:precision "0.876"^^xsd:double ;
+					mexperf:recall "0.935"^^xsd:double ;
+					mexperf:f1Measure "0.905"^^xsd:double ;
+					mexperf:accuracy "0.901"^^xsd:double ; .
+					prov:wasGeneratedBy this:torayeff_exe_1
+
+this:torayeff_mea_2
+					a	mexperf:PerformanceMeasure ;
+					mexperf:precision "0.167"^^xsd:double ;
+					mexperf:recall "0.120"^^xsd:double ;
+					mexperf:f1Measure "0.140"^^xsd:double ;
+					mexperf:accuracy "0.757"^^xsd:double ;
+					prov:wasGeneratedBy this:torayeff_exe_2 .
+
+this:torayeff_mea_3
+					a	mexperf:PerformanceMeasure ;
+					mexperf:precision "0.673"^^xsd:double ;
+					mexperf:recall "0.643"^^xsd:double ;
+					mexperf:f1Measure "0.658"^^xsd:double ;
+					mexperf:accuracy "0.665"^^xsd:double ;
+					prov:wasGeneratedBy this:torayeff_exe_3 .
+
+this:torayeff_mea_3
+					a	mexperf:PerformanceMeasure ;
+					mexperf:precision "0.740"^^xsd:double ;
+					mexperf:recall "0.841"^^xsd:double ;
+					mexperf:f1Measure "0.784"^^xsd:double ;
+					mexperf:accuracy "0.761"^^xsd:double ;
+					prov:wasGeneratedBy this:torayeff_exe_4 .
+
+this:torayeff_exp_algo_1
+					a	mexalgo:Algorithm ;
+        			rdfs:label	"MultinomialNB" ;
+        			dct:identifier	"MultinomialNB" ;
+        			mexalgo:hasHyperParameter this:torayeff_hyperpar_1 .
+
+this:torayeff_exp_algo_2
+					a	mexalgo:Algorithm ;
+        			rdfs:label	"SGDClassifier" ;
+        			dct:identifier	"SGDClassifier" ;
+        			mexalgo:hasHyperParameter this:torayeff_hyperpar_2, this:torayeff_hyperpar_3 .
+
+this:torayeff_exp_algo_3
+					a	mexalgo:Algorithm ;
+        			rdfs:label	"RandomForestClassifier" ;
+        			dct:identifier	"RandomForestClassifier" ;
+        			mexalgo:hasHyperParameter this:torayeff_hyperpar_4, this:torayeff_hyperpar_5 .
