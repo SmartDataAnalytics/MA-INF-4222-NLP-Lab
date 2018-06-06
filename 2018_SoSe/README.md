@@ -40,10 +40,10 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Summer 2018,
 |02| DeFacto | (RDF triple) claim ranking | benchmarking N models + designing a model  | (Omar Sallam) | Esteves  |
 |03| DeFacto | (Natural Language) claim validation | benchmarking N models + desigining a model | -- | Esteves  |
 |04| DeFacto | WebTrustworthiness | computing trustworthiness indicators for websites | (374183- Rakesh Lagare, 374559 -Nagesh Ramamoorthy | Esteves  |
-|05| HORUS | Text Classification (Neural Nets) | Integrating and benchmarking text classification techniques in NER | (3067341-Torayev, 3004974-Elvermann, we are looking for the third member) | Esteves  |
+|05| HORUS | Text Classification (Neural Nets) | Integrating and benchmarking text classification techniques in NER | (3067341-Torayev, 3004974-Elvermann,7344284-Hausladen  | Esteves  |
 |06| HORUS | Computer Vision (Neural Nets) | Integrating and benchmarking computer vision techniques in NER | -- | Esteves  |
 |07| HORUS | Extending HORUS NER | NER in Novel and Emerging Entity Recognition | -- | Esteves  |
-|08| SDA | I am groot  | Sentimental Analysis over dailog | (2719095-Draschner, 2571421-Weinz, 2468882-Pielka, 7344284-Hausladen) | Mohnish D  |
+|08| SDA | I am groot  | Sentimental Analysis over dailog | (2719095-Draschner, 2571421-Weinz, 2468882-Pielka| Mohnish D  |
 |09| AskNowQA| NL2SPARQL | Converting Natural Language Question to SPARQL  | Aykul-3057326, Çil-3067657, Nico-2954361  | Mohnish D  |
 |10| AskNowQA| GK Ques to KB | Aligning general knowledge question to Knowledge Graphs   | -- | Mohnish D  |
 |11| AskNowQA| Guess me? Who am I ? | Asking user to identifying the entity given the information   | -- | Mohnish D  |
