@@ -51,6 +51,7 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Summer 2018,
 |13| NSpM | Composition in Neural QA | Using Curriculum Learning to learn SPARQL compositions | -- | Esteves / Tommaso |
 |14| -- | Neural Network based Commonsense causal reasoning | Learn latent representation of ConceptNet. Further combine it with seq2seq model to predict response for a given premise.  | 2255383-Asif Khan | Esteves |
 |15| -- | Summarization | Summarization of PubMed Abstracts into maximum three sentences | Ricardo Martinez (2970600), Dejan Dukic (2984857) | Esteves |
+
 ....
 more to come!
 
