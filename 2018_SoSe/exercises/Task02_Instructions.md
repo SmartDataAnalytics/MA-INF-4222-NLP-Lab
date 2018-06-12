@@ -38,7 +38,7 @@ I just created a [script](https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-
 #### The configurations 
 
 - configuration 1) model a => dataset1 (train / test split)
-- configuration 2) model b => dataset2 (train / validation / test split) *you can use all dataset columns here
+- configuration 2) model b => dataset2 (train / validation / test split) *you can use all dataset columns here*
 - configuration 3) model a => dataset2 | model2 => dataset1 (test) 
 - configuration 4) model c => dataset3 (train / test split)
 
@@ -58,8 +58,8 @@ Therefore, your outcomes will be as follows:
 	- model b - test - dataset1 - [performance measures]
 
 - configuration 4
-	- model c - train - [performance measures][0:4]
-	- model c - test - [performance measures][0:4]
+	- model c - train - [performance measures]
+	- model c - test - [performance measures]
 
 note2: when reporting your performance measures for configuration 1 and configuration 4, consider => K-fold cross-validation, k=5, train=0.75, random_state = 4222 (that is very important in order to achieve reproducibility!!!)
 
