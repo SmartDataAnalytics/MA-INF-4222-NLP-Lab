@@ -9,6 +9,15 @@ from sklearn.model_selection import train_test_split
 from keras.utils.np_utils import to_categorical
 import re
 
+'''
+Task 3: playing with NN framwork/keras and basic sentiment analysis
+- use the following model as a baseline and improve it!
+- export your metadata (just basic hyperparameters and outcomes for test data!)
+- test data = 0.3 (not in this example, change it!)
+- random_state = 4222
+- no need to cross-validation!
+'''
+
 # parameters
 max_fatures = 500
 embed_dim = 128

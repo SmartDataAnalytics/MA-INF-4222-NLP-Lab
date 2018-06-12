@@ -1,0 +1,186 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix doap: <http://usefulinc.com/ns/doap#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix mexalgo: <http://mex.aksw.org/mex-algo#> .
+@prefix mexcore: <http://mex.aksw.org/mex-core#> .
+@prefix mexperf: <http://mex.aksw.org/mex-perf#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix this: <http://mex.aksw.org/examples/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+this:configuration1 a mexcore:ExperimentConfiguration ;
+    prov:used this:model1 ;
+    prov:wasStartedBy this:khan_task2 .
+
+this:configuration2 a mexcore:ExperimentConfiguration ;
+    prov:used this:model2 ;
+    prov:wasStartedBy this:hausladen_task2 .
+
+this:configuration3 a mexcore:ExperimentConfiguration ;
+    prov:used this:model1,
+        this:model2 ;
+    prov:wasStartedBy this:hausladen_task2 .
+
+this:configuration4 a mexcore:ExperimentConfiguration ;
+    prov:used this:model4 ;
+    prov:wasStartedBy this:hausladen_task2 .
+
+this:cross_validation a mexcore:crossValidation ;
+    rdfs:label "cross validation" ;
+    mexcore:folds 5 ;
+    mexcore:random_state 4222 .
+
+this:dataset1 a mexcore:Dataset ;
+    rdfs:label "Fake-News" ;
+    dct:landingPage "https://github.com/GeorgeMcIntire/fake_real_news_dataset" .
+
+this:dataset2 a mexcore:Dataset ;
+    rdfs:label "Liar-Liar" ;
+    dct:landingPage "https://www.cs.ucsb.edu/william/data/liar_dataset.zip" .
+
+this:dataset3 a mexcore:Dataset ;
+    rdfs:label "Fake-News+Liar-Liar" ;
+    dct:landingPage "https://github.com/GeorgeMcIntire/fake_real_news_dataset",
+        "https://www.cs.ucsb.edu/william/data/liar_dataset.zip" .
+
+this:execution1 a mexcore:ExecutionOverall ;
+    prov:generated this:performance_measures1 ;
+    prov:used this:hyerparameter_model1,
+        this:model1,
+        this:test .
+
+this:execution2 a mexcore:ExecutionOverall ;
+    prov:generated this:performance_measures2 ;
+    prov:used this:hyerparameter_model2,
+        this:model2,
+        this:test .
+
+this:execution3 a mexcore:ExecutionOverall ;
+    prov:generated this:performance_measures3 ;
+    prov:used this:model2,
+        this:model3,
+        this:test .
+
+this:execution4 a mexcore:ExecutionOverall ;
+    prov:generated this:performance_measures4 ;
+    prov:used this:hyerparameter_model4,
+        this:model4,
+        this:test .
+
+this:hyerparameter_model1 a mexalgo:HyperParameterCollection ;
+    prov:hadMember this:hyerparameter1 .
+
+this:hyerparameter_model2 a mexalgo:HyperParameterCollection ;
+    rdfs:label "HyperParameterCollection" ;
+    prov:hadMember this:hyerparameter2,
+        this:hyerparameter3,
+        this:hyerparameter4,
+        this:hyerparameter5 .
+
+this:hyerparameter_model4 a mexalgo:HyperParameterCollection ;
+    rdfs:label "HyperParameterCollection" ;
+    prov:hadMember this:hyerparameter6,
+        this:hyerparameter7,
+        this:hyerparameter8 .
+
+this:performance_measures1 a mexcore:PerformanceMeasure ;
+    mexperf:accuracy "0.93"^^xsd:float ;
+    mexperf:precision "0.93"^^xsd:float ;
+    mexperf:recall "0.93"^^xsd:float ;
+    prov:wasGeneratedBy this:execution1 .
+
+this:performance_measures2 a mexcore:PerformanceMeasure ;
+    mexperf:accuracy "0.47"^^xsd:float ;
+    mexperf:precision "0.47"^^xsd:float ;
+    mexperf:recall "0.44"^^xsd:float ;
+    prov:wasGeneratedBy this:execution2 .
+
+this:performance_measures3 a mexcore:PerformanceMeasure ;
+    mexperf:accuracy "0.91"^^xsd:float ;
+    mexperf:precision "0.91"^^xsd:float ;
+    mexperf:recall "0.91"^^xsd:float ;
+    prov:wasGeneratedBy this:execution3 .
+
+this:performance_measures4 a mexcore:PerformanceMeasure ;
+    mexperf:accuracy "0.82"^^xsd:float ;
+    mexperf:precision "0.82"^^xsd:float ;
+    mexperf:recall "0.83"^^xsd:float ;
+    prov:wasGeneratedBy this:execution4 .
+
+this:hyerparameter1 a mexalgo:HyperParameter ;
+    rdfs:label "HyperParameterCollection",
+        "alpha" ;
+    dct:identifier "alpha" ;
+    prov:value "1.0"^^xsd:float .
+
+this:hyerparameter2 a mexalgo:HyperParameter ;
+    rdfs:label "min_samples_split" ;
+    dct:identifier "min_samples_split" ;
+    prov:value 2 .
+
+this:hyerparameter3 a mexalgo:HyperParameter ;
+    rdfs:label "min_samples_leaf" ;
+    dct:identifier "min_samples_leaf" ;
+    prov:value 1 .
+
+this:hyerparameter4 a mexalgo:HyperParameter ;
+    rdfs:label "splitter" ;
+    dct:identifier "splitter" ;
+    prov:value "best" .
+
+this:hyerparameter5 a mexalgo:HyperParameter ;
+    rdfs:label "criterion" ;
+    dct:identifier "criterion" ;
+    prov:value "gini" .
+
+this:hyerparameter6 a mexalgo:HyperParameter ;
+    rdfs:label "max_iter" ;
+    dct:identifier "max_iter" ;
+    prov:value 100 .
+
+this:hyerparameter7 a mexalgo:HyperParameter ;
+    rdfs:label "penalty" ;
+    dct:identifier "penalty" ;
+    prov:value "l2" .
+
+this:hyerparameter8 a mexalgo:HyperParameter ;
+    rdfs:label "C" ;
+    dct:identifier "C" ;
+    prov:value "1.0"^^xsd:float .
+
+this:model4 a mexalgo:Algorithm ;
+    rdfs:label "LogisticRegression" ;
+    mexalgo:hasHyperParameter this:hyerparameter6,
+        this:hyerparameter7,
+        this:hyerparameter8 ;
+    dct:identifier "LogisticRegression" .
+
+this:hausladen_task2 a mexcore:ApplicationContext,
+        mexcore:Experiment ;
+    rdfs:label "7344284" ;
+    dct:date "2018-06-02"^^xsd:date ;
+    foaf:givenName "Carina" ;
+    foaf:mbox "hauslaca@gmail.com" .
+
+this:model1 a mexalgo:Algorithm ;
+    rdfs:label "MultinomialNB" ;
+    mexalgo:hasHyperParameter this:hyerparameter1 ;
+    dct:identifier "MultinomialNB" .
+
+this:model2 a mexalgo:Algorithm ;
+    rdfs:label "DecisionTree" ;
+    mexalgo:hasHyperParameter this:hyerparameter2,
+        this:hyerparameter3,
+        this:hyerparameter4,
+        this:hyerparameter5 ;
+    dct:identifier "DecisionTree" .
+
+this:test a mexcore:Test ;
+    rdfs:label "Test" .
+
