@@ -1,0 +1,50 @@
+# THE EXPERIMENT HEADER
+
+this:version  dct:hasVersion  "1.0.2" .
+
+this:exp_-885282252  a          mexcore:Experiment ;
+		rdfs:label				"SoSe2018"
+		foaf:givenName 			"<student name>";
+        dct:identifier          "<matriculation>" ;
+        dct:dateCopyrighted  "2016.05.25 23:19:10 CEST" ;
+        foaf:mbox				"esteves@cs.uni-bonn.de".
+
+# AN EXPERIMENT CONFIGURATION
+
+this:exp_cf_1_-885282252 a  mexcore:ExperimentConfiguration ;
+        rdfs:label         "...." ;
+        dct:identifier     "MEX_EXP_CONF_D1" ;
+        prov:used          this:exp_cf_1_-885282252_ds , this:exp_cf_1_-885282252_tool ;
+        prov:wasStartedBy  this:exp_-885282252 .
+
+
+this:exp_cf_1_-885282252_ds a           mexcore:Dataset ;
+        dct:title   "<dataset name>" .
+
+this:exp_cf_1_-885282252_exe_1_algo a  mexalgo:Algorithm ;
+        rdfs:label      "<algorithm label>" ;
+        dct:identifier  "<algorithm name>" .
+
+this:exp_cf_1_-885282252_exe_1_phase_training a mexcore:Training .
+this:exp_cf_1_-885282252_exe_1_phase_validation a mexcore:Validation .
+this:exp_cf_1_-885282252_exe_1_phase_test a mexcore:Test .
+
+
+# ALGORITHMS INFO
+
+this:hyperp_colcf1_1524581609 a  mexalgo:HyperParameterCollection ;
+        prov:hadMember  this:hyperp_2cf1_1524581609 , this:hyperp_1cf1_1524581609 .
+
+this:hyperp_2cf1_1524581609 a   mexalgo:HyperParameter ;
+        dct:identifier  "alpha" ;
+        prov:value      "0.2" .
+
+
+# AN EXECUTION
+
+this:exp_cf_1_-885282252_exe_1
+        a                     mexcore:ExecutionOverall ;
+        prov:generated        this:exp_cf_1_-885282252_exe_1_mea_2 , this:exp_cf_1_-885282252_exe_1_mea_1 ;
+        prov:id               "C1_MEX_EXEC_D1" ;
+        prov:used             this:exp_cf_1_-885282252_exe_1_algo , this:exp_cf_1_-885282252_exe_1_phase ;
+        prov:wasInformedBy    this:exp_cf_1_-885282252 .

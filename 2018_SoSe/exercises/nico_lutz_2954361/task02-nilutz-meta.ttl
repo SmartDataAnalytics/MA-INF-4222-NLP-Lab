@@ -1,0 +1,127 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix doap: <http://usefulinc.com/ns/doap#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix mexalgo: <http://mex.aksw.org/mex-algo#> .
+@prefix mexcore: <http://mex.aksw.org/mex-core#> .
+@prefix mexperf: <http://mex.aksw.org/mex-perf#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix this: <http://mex.aksw.org/examples/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+this:configuration1 mexcore:ExperimentConfiguration prov:Entity ;
+    prov:used this:model1 ;
+    prov:wasStartedBy this:nlp_ex2_nilutz .
+
+this:configuration2 mexcore:ExperimentConfiguration prov:Entity ;
+    prov:used this:model2 ;
+    prov:wasStartedBy this:nlp_ex2_nilutz .
+
+this:configuration3 mexcore:ExperimentConfiguration prov:Entity ;
+    prov:used this:model1,
+        this:model2 ;
+    prov:wasStartedBy this:nlp_ex2_nilutz .
+
+this:configuration4 mexcore:ExperimentConfiguration prov:Entity ;
+    prov:used this:model4 ;
+    prov:wasStartedBy this:nlp_ex2_nilutz .
+
+this:cross_validation rdfs:label "cross validation" ;
+    mexcore:crossValidation prov:Entity ;
+    mexcore:folds 5 ;
+    mexcore:random_state 4222 .
+
+this:dataset1 rdfs:label "Fake-News" ;
+    mexcore:Dataset prov:Entity ;
+    dct:landingPage "https://github.com/GeorgeMcIntire/fake_real_news_dataset" .
+
+this:dataset2 rdfs:label "Liar-Liar" ;
+    mexcore:Dataset prov:Entity ;
+    dct:landingPage "https://www.cs.ucsb.edu/william/data/liar_dataset.zip" .
+
+this:dataset3 rdfs:label "Fake-News+Liar-Liar" ;
+    mexcore:Dataset prov:Entity ;
+    dct:landingPage "https://github.com/GeorgeMcIntire/fake_real_news_dataset",
+        "https://www.cs.ucsb.edu/william/data/liar_dataset.zip" .
+
+this:execution1 mexcore:ExecutionOverall prov:Entity ;
+    prov:generated this:performance_measures1 ;
+    prov:used this:hyerparameter_model1,
+        this:model1,
+        this:test .
+
+this:execution2 mexcore:ExecutionOverall prov:Entity ;
+    prov:generated this:performance_measures2 ;
+    prov:used this:model2,
+        this:test .
+
+this:execution3 mexcore:ExecutionOverall prov:Entity ;
+    prov:generated this:performance_measures3 ;
+    prov:used this:model2,
+        this:model3,
+        this:test .
+
+this:execution4 mexcore:ExecutionOverall prov:Entity ;
+    prov:generated this:performance_measures4 ;
+    prov:used this:model4,
+        this:test .
+
+this:hyerparameter_model1 mexalgo:HyperParameterCollection prov:Entity ;
+    prov:hadMember this:hyerparameter1 .
+
+this:performance_measures1 mexcore:PerformanceMeasure prov:Entity ;
+    mexperf:accuracy "0.9125095439647616"^^xsd:float ;
+    mexperf:precision "0.9135130205693803"^^xsd:float ;
+    mexperf:recall "0.9124605678233438"^^xsd:float ;
+    prov:wasGeneratedBy this:execution1 .
+
+this:performance_measures2 mexcore:PerformanceMeasure prov:Entity ;
+    mexperf:accuracy "0.12205757614213675"^^xsd:float ;
+    mexperf:precision "0.080129419275154"^^xsd:float ;
+    mexperf:recall "0.2601626016260163"^^xsd:float ;
+    prov:wasGeneratedBy this:execution2 .
+
+this:performance_measures3 mexcore:PerformanceMeasure prov:Entity ;
+    mexperf:accuracy "0.004661412144837637"^^xsd:float ;
+    mexperf:precision "0.0024157581633528847"^^xsd:float ;
+    mexperf:recall "0.07050923335198657"^^xsd:float ;
+    prov:wasGeneratedBy this:execution3 .
+
+this:performance_measures4 mexcore:PerformanceMeasure prov:Entity ;
+    mexperf:accuracy "0.7330682192048681"^^xsd:float ;
+    mexperf:precision "0.7498054007805659"^^xsd:float ;
+    mexperf:recall "0.729180546302465"^^xsd:float ;
+    prov:wasGeneratedBy this:execution4 .
+
+this:hyerparameter1 rdfs:label "HyperParameterCollection",
+        "alpha" ;
+    mexalgo:HyperParameter prov:Entity ;
+    dct:identifier "alpha" ;
+    prov:value "0.05"^^xsd:float .
+
+this:model4 rdfs:label "RandomForestClassifier" ;
+    mexalgo:Algorithm prov:Entity ;
+    dct:identifier "RandomForestClassifier" .
+
+this:model1 rdfs:label "MultinomialNB" ;
+    mexalgo:Algorithm prov:Entity ;
+    mexalgo:hasHyperParameter this:hyerparameter1 ;
+    dct:identifier "MultinomialNB" .
+
+this:model2 rdfs:label "OneVsRestClassifier" ;
+    mexalgo:Algorithm prov:Entity ;
+    dct:identifier "OneVsRestClassifier" .
+
+this:nlp_ex2_nilutz mexcore:ApplicationContext prov:Entity ;
+    mexcore:Experiment prov:Entity ;
+    dct:date "2018-05-20"^^xsd:date ;
+    foaf:givenName "Nico" .
+
+this:test rdfs:label "Test" ;
+    mexcore:Test prov:Entity .
+

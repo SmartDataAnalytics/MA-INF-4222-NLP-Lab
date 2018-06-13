@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dct="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:mexalgo="http://mex.aksw.org/mex-algo#"
+   xmlns:mexcore="http://mex.aksw.org/mex-core#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://mex.aksw.org/examples/model1">
+    <mexalgo:hasHyperParameter rdf:resource="http://mex.aksw.org/examples/hyerparameter1"/>
+    <rdfs:label>Keras-LSTM-NET</rdfs:label>
+    <mexalgo:Algorithm rdf:resource="http://www.w3.org/ns/prov#Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mex.aksw.org/examples/nlp_ex3_nilutz">
+    <mexcore:ApplicationContext rdf:resource="http://www.w3.org/ns/prov#Entity"/>
+    <dct:date rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-05-25</dct:date>
+    <mexcore:Experiment rdf:resource="http://www.w3.org/ns/prov#Entity"/>
+    <foaf:givenName>Nico</foaf:givenName>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mex.aksw.org/examples/model2">
+    <mexalgo:hasHyperParameter rdf:resource="http://mex.aksw.org/examples/hyerparameter2"/>
+    <rdfs:label>Keras-CONV-NET</rdfs:label>
+    <mexalgo:Algorithm rdf:resource="http://www.w3.org/ns/prov#Entity"/>
+  </rdf:Description>
+</rdf:RDF>
