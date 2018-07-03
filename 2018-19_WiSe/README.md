@@ -17,6 +17,7 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Winter 2018-
 3. **Join the group for discussion: nlp_labs_unibonn_wise201819@googlegroups.com**
 
 [1] *at uni minus bonn dot de*
+
 [2] *at cs dot uni minus bonn dot de*
 
 #### When and Where
