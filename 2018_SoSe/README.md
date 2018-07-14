@@ -39,7 +39,7 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Summer 2018,
 1. Nico (NL2Sparql)
 2. Carsten, Jonas and Maren (Emoji prediction for text messages)
 3. Debayan Banerjee,  Pooja Bhatia, Jing-Long Wu (Key-Value Retrieval Networks for Task-Oriented Dialogue)
-4. 
+4. Dejan and Ricardo (Text clas.)
 5. 
 6. 
 
