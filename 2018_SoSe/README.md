@@ -23,7 +23,26 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Summer 2018,
 		- *add a new line if you want to work in something not listed!*
 	- 22.05.2018 - Working on the projects (min. group of N=3 people)
 	- 12.06.2018 - Mid-term presentations (10min talk/group)
-	- 17, 24 and 31.07.2018 - Final presentations (20min talk/group)
+	- 17, 24,07 - Final presentations (20min talk/group)
+
+#### Final presentations (20 min talk + 5min questions)
+
+- 17.07
+1. Carina Hausladen, Tobias Elvermann, Agajan Torayev (Legal text classification)
+2. 
+3.
+4.
+5. 
+6. 
+
+- 24.07
+1. Nico (NL2Sparql)
+2. Carsten, Jonas and Maren (Emoji prediction for text messages)
+3. Debayan Banerjee,  Pooja Bhatia, Jing-Long Wu (Key-Value Retrieval Networks for Task-Oriented Dialogue)
+4. Dejan and Ricardo (Text clas.)
+5. 
+6. 
+
 
 #### Lab Tasks (warm-up)
 	- Task 1 (POS Tagger) - **due to 08.05.2018**
