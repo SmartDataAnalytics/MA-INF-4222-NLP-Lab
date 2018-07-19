@@ -29,11 +29,6 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Summer 2018,
 
 - 17.07
 1. Carina Hausladen, Tobias Elvermann, Agajan Torayev (Legal text classification)
-2. 
-3.
-4.
-5. 
-6. 
 
 - 24.07
 1. Nico (NL2Sparql)
