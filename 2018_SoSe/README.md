@@ -33,9 +33,9 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Summer 2018,
 
 1. Carina Hausladen, Tobias Elvermann, Agajan Torayev (Legal text classification)
 
-**24.07 (2.025 13:00h)**
+**24.07 (2.025 13:30h)**
 
-1. Nico (NL2Sparql) - 13:30 - 13:50
+1. Nico (NL2Sparql) - 13:30 - 13:50 (NOT CONFIRMED YET)
 2. Carsten, Jonas and Maren (Emoji prediction for text messages) - 13:55 - 14:15
 3. Debayan Banerjee, Pooja Bhatia, Jing-Long Wu (Key-Value Retrieval Networks for Task-Oriented Dialogue) - 14:20 - 14:40
 	
