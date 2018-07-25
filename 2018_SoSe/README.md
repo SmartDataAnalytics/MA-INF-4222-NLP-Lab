@@ -31,24 +31,25 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Summer 2018,
 
 **17.07 (1.047 15:00h)**
 
-1. Carina Hausladen, Tobias Elvermann, Agajan Torayev (Legal text classification)
+1. Carina Hausladen, Tobias Elvermann, Agajan Torayev (Legal text classification) - 15:00 - 15:20
 
 **24.07 (2.025 13:30h)**
 
-1. Nico (NL2Sparql) - 13:30 - 13:50 (NOT CONFIRMED YET)
+1. Nico (NL2Sparql) - 13:30 - 13:50
 2. Carsten, Jonas and Maren (Emoji prediction for text messages) - 13:55 - 14:15
 3. Debayan Banerjee, Pooja Bhatia, Jing-Long Wu (Key-Value Retrieval Networks for Task-Oriented Dialogue) - 14:20 - 14:40
 	
  -- 5min break -- 
 	
-4. Hady Yasser, Aram Grigoryan, Gergo Szita (NER Text classification) - 14:50 - 15:10
+4. Hady Yasser, ~~Aram Grigoryan, Gergo Szita (NER Text classification)~~ - 14:50 - 15:10
 5. free slot - 15:15 - 15:35
 6. free slot - 15:40 - 16:00
 		
 **07.08 (1.047 15:00h)**
 
-1. Asif Khan - Commonsense Knowledge Base Reasoning - 15:00h
-2. Dejan and Ricardo (PubMed Text clas.) - 15:25h
+1. Aram Grigoryan, Gergo Szita (NER Text classification) - 15:00 - 15:20
+2. Asif Khan - Commonsense Knowledge Base Reasoning - 15:25 - 15:45
+3. Dejan and Ricardo (PubMed Text clas.) - 15:50 - 16:10 
 
 #### Lab Tasks (warm-up)
 	- Task 1 (POS Tagger) - **due to 08.05.2018**
