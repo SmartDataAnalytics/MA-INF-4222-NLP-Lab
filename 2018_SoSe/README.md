@@ -69,7 +69,7 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Summer 2018,
 |05| HORUS | Text Classification (Neural Nets) | Integrating and benchmarking text classification techniques in NER | (Torayev, Elvermann, Hausladen) | Esteves  |
 |06| HORUS | Computer Vision (Neural Nets) | Integrating and benchmarking computer vision techniques in NER | -- | Esteves  |
 |07| HORUS | Extending HORUS NER | NER in Novel and Emerging Entity Recognition | -- | Esteves  |
-|08| SDA | I am groot  | Sentimental Analysis over dailog | (Draschner, Weinz, Pielka| Mohnish D  |
+|08| SDA | Emoji Prediction for Text Messages | Sentimental Analysis over dailog | (Draschner, Weinz, Pielka| Mohnish D  |
 |09| AskNowQA| NL2SPARQL | Converting Natural Language Question to SPARQL  | Aykul, Çil, Nico  | Mohnish D  |
 |10| AskNowQA| GK Ques to KB | Aligning general knowledge question to Knowledge Graphs   | -- | Mohnish D  |
 |11| AskNowQA| Guess me? Who am I ? | Asking user to identifying the entity given the information   | -- | Mohnish D  |
