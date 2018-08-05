@@ -1,4 +1,7 @@
-The implementation of our project is at https://github.com/debayan/KVMemnn
+
+The implementation of our project is at https://github.com/debayan/KVMemnn.
+It contains details of training, inference and evaluation in the repo readme file.
+Also uploading a zip of the code in this folder for backup purposes.
 
 Group Members
 -------------
