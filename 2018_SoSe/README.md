@@ -76,7 +76,7 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Summer 2018,
 |11| AskNowQA| Guess me? Who am I ? | Asking user to identifying the entity given the information   | -- | Mohnish D  |
 |12| AskNowQA| Chatbot | Key-Value Retrieval Networks for Task-Oriented Dialogue https://arxiv.org/pdf/1705.05414.pdf | Debayan Banerjee, Pooja Bhatia, Jing-Long Wu | Mohnish D /Debanjan  |
 |13| NSpM | Composition in Neural QA | Using Curriculum Learning to learn SPARQL compositions | -- | Esteves / Tommaso |
-|14| -- | Neural Network based Commonsense causal reasoning | Learn latent representation of ConceptNet. Further combine it with seq2seq model to predict response for a given premise.  | Asif Khan | Esteves |
+|14| -- | Neural Network based Commonsense causal reasoning |Commonsense KnowledgeBase Reasoning | Asif Khan | Esteves |
 |15| -- | Summarization | Summarization of PubMed Abstracts into maximum three sentences | Ricardo Martinez, Dejan Dukic | Esteves |
 |16| -- | Semantic Representation | Building a framework for generation of Semantic Representations  | ma_klaf | Esteves |
 ....
