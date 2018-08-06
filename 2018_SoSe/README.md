@@ -50,6 +50,7 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Summer 2018,
 1. Aram Grigoryan, Gergo Szita (NER Text classification) - 15:00 - 15:20
 2. Asif Khan - Commonsense Knowledge Base Reasoning - 15:25 - 15:45
 3. Dejan and Ricardo (PubMed Text clas.) - 15:50 - 16:10 
+4. Maurice Klaffehn (Semantic Representations) - 16:15 - 16:35
 
 #### Lab Tasks (warm-up)
 	- Task 1 (POS Tagger) - **due to 08.05.2018**
@@ -77,6 +78,7 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Summer 2018,
 |13| NSpM | Composition in Neural QA | Using Curriculum Learning to learn SPARQL compositions | -- | Esteves / Tommaso |
 |14| -- | Neural Network based Commonsense causal reasoning | Learn latent representation of ConceptNet. Further combine it with seq2seq model to predict response for a given premise.  | Asif Khan | Esteves |
 |15| -- | Summarization | Summarization of PubMed Abstracts into maximum three sentences | Ricardo Martinez, Dejan Dukic | Esteves |
+|16| -- | Semantic Representation | Building a framework for generation of Semantic Representations  | ma_klaf | Esteves |
 ....
 more to come!
 
