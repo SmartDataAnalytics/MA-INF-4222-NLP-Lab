@@ -68,17 +68,7 @@ example: ```\SoSe17\project01\code```and ```\SoSe17\project01\presentation``` :f
 ### More Info :calendar:
 (submission dates, tasks, project descriptions, etc..)
 
-[**Summer Semester 2018**](https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-Lab/tree/master/2018_SoSe) :sunny:
-- **When?** 17.04.2018 bis 17.07.2018
-- **Where?** Endenicher Allee 19A, INF/B-IT/Seminarraum 1.047, Informatik III 
-- **Time?** 3PM 
-- Joint kick-off meeting date (NLP seminars and labs): **17.04.2018 14:30h**
-
-[**Please register here (SS2018)**](https://docs.google.com/forms/d/e/1FAIpQLSdjCWyeyPTnorNrIGzxjY4kIT2BFe8KP3nf1kVoO9OD5vnk5A/viewform)
-
-[~~Winter Semester 2017-18~~](https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-Lab/tree/master/2017-18_WiSe) :snowflake:
-
-[~~Summer Semester 2017~~](https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-Lab/tree/master/2017_SoSe) :sunny:
+[**WiSe2018-19 (Registration)**](https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-Lab/tree/master/2018-19_WiSe)
 
 [Smart Data Analytics (SDA Research)](http://sda.cs.uni-bonn.de/)
 
