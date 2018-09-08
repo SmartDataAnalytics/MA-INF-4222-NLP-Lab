@@ -19,10 +19,8 @@
 AVZ III / Römerstr. 164	(schedule see [more info](https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-Lab#more-info-calendar) below)
 
 ### Registration :email:
-- please send an email to: esteves@cs.uni-bonn.de
-    - subject = "**MA-INF-4222-NLP-Lab - registration - [semester code]** (eg: SoSe17 or WiSe17-18)"
-    - content = **matriculation nr.** - **full name** 
-- please join the **respective google group** for your semester (see [more info](https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-Lab#more-info-calendar) below)
+
+[**WiSe2018-19 (Registration)**](https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-Lab/tree/master/2018-19_WiSe)
 
 ### Pre-requisites :warning:
 - Programming language skills (preferable: Python! :snake: or Java? :coffee:) 
@@ -66,9 +64,6 @@ example: ```\SoSe17\project01\code```and ```\SoSe17\project01\presentation``` :f
 *2 - file_name template = "task_x.py"*
 
 ### More Info :calendar:
-(submission dates, tasks, project descriptions, etc..)
-
-[**WiSe2018-19 (Registration)**](https://github.com/SmartDataAnalytics/MA-INF-4222-NLP-Lab/tree/master/2018-19_WiSe)
 
 [Smart Data Analytics (SDA Research)](http://sda.cs.uni-bonn.de/)
 
