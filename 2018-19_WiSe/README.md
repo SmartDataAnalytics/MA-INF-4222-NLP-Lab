@@ -12,6 +12,8 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Winter 2018-
 
 1. **Request**: send an email to (*esteves* and *dubey* [1]) to confirm there are still free places.
 
+**Just ONE free place!**
+
 2. **Confirmation**: If you get an OK from us, please [register here](https://docs.google.com/forms/d/e/1FAIpQLSc2SQu_WpGWJClKFuJn_auXY0afsyO-OGyHDg44OONkiSJ5Rw/viewform)
 
 3. **Join the group for discussion: nlp_labs_unibonn_wise201819@googlegroups.com**
