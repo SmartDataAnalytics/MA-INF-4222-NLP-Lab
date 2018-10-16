@@ -22,7 +22,6 @@ Repository for Lab “Natural Language Processing” (MA-INF 4222), Winter 2018-
 #### When and Where
 	- When: Fridays
 	- Where: Endenicher Allee 19A, INF/B-IT/Seminarraum 1.047, Informatik III
-	- Time: 1pm
 
 #### Schedule
 	- 19.10.2018 - Inaugural meeting NLP seminars and labs (*TIME WILL BE CONFIRMED BY EMAIL*)
